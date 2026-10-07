@@ -1,0 +1,397 @@
+{
+ "landuse": {
+  "1906": {
+   "Residential \u2013 single-family": 21,
+   "Vacant": 3,
+   "Commercial": 4,
+   "Residential \u2013 multifamily": 1
+  },
+  "1927": {
+   "Commercial": 14,
+   "Residential \u2013 single-family": 35,
+   "Residential \u2013 multifamily": 12,
+   "Mixed-use": 2
+  },
+  "1956": {
+   "Commercial": 110,
+   "Residential \u2013 multifamily": 16,
+   "Residential \u2013 single-family": 24,
+   "Mixed-use": 9,
+   "Institutional": 3
+  },
+  "1960": {
+   "Commercial": 111,
+   "Residential \u2013 multifamily": 14,
+   "Residential \u2013 single-family": 25,
+   "Mixed-use": 8,
+   "Institutional": 3
+  },
+  "1964": {
+   "Commercial": 110,
+   "Residential \u2013 single-family": 24,
+   "Residential \u2013 multifamily": 18,
+   "Mixed-use": 4,
+   "Institutional": 2
+  },
+  "1965": {
+   "Commercial": 109,
+   "Residential \u2013 single-family": 22,
+   "Residential \u2013 multifamily": 17,
+   "Mixed-use": 3,
+   "Institutional": 2
+  },
+  "1968": {
+   "Commercial": 107,
+   "Residential \u2013 single-family": 20,
+   "Residential \u2013 multifamily": 14,
+   "Mixed-use": 5,
+   "Institutional": 2,
+   "Unknown": 1
+  },
+  "1973": {
+   "Commercial": 106,
+   "Institutional": 1,
+   "Residential \u2013 multifamily": 11,
+   "Residential \u2013 single-family": 19,
+   "Mixed-use": 4
+  },
+  "1987": {
+   "Commercial": 93,
+   "Residential \u2013 multifamily": 7,
+   "Mixed-use": 7,
+   "Residential \u2013 single-family": 15,
+   "Institutional": 1
+  }
+ },
+ "buckets": {
+  "1906": {
+   "Food stores": 2,
+   "Finance, insurance & real estate": 1,
+   "Auto sales & service": 1
+  },
+  "1927": {
+   "Health & medical": 8,
+   "Unidentified business": 1,
+   "Food stores": 7
+  },
+  "1956": {
+   "Food stores": 13,
+   "Personal services": 15,
+   "Finance, insurance & real estate": 11,
+   "Light industrial, trades & wholesale": 8,
+   "Health & medical": 15,
+   "Restaurants & bars": 10,
+   "General & specialty retail": 13,
+   "Professional & business services": 8,
+   "Media, printing & entertainment": 5,
+   "Home furnishings, hardware & appliances": 12,
+   "Unidentified business": 1,
+   "Auto sales & service": 5,
+   "Apparel, shoes & fabric": 11,
+   "Institutional & civic": 4
+  },
+  "1960": {
+   "Food stores": 12,
+   "Light industrial, trades & wholesale": 8,
+   "Finance, insurance & real estate": 12,
+   "Home furnishings, hardware & appliances": 13,
+   "Restaurants & bars": 16,
+   "Personal services": 14,
+   "Media, printing & entertainment": 6,
+   "General & specialty retail": 15,
+   "Auto sales & service": 6,
+   "Institutional & civic": 4,
+   "Professional & business services": 7,
+   "Unidentified business": 2,
+   "Apparel, shoes & fabric": 9,
+   "Health & medical": 13
+  },
+  "1964": {
+   "Food stores": 10,
+   "Light industrial, trades & wholesale": 5,
+   "Finance, insurance & real estate": 11,
+   "Restaurants & bars": 19,
+   "Personal services": 10,
+   "General & specialty retail": 18,
+   "Auto sales & service": 5,
+   "Institutional & civic": 2,
+   "Media, printing & entertainment": 4,
+   "Home furnishings, hardware & appliances": 12,
+   "Unidentified business": 2,
+   "Apparel, shoes & fabric": 10,
+   "Professional & business services": 4,
+   "Health & medical": 11
+  },
+  "1965": {
+   "Food stores": 11,
+   "Light industrial, trades & wholesale": 6,
+   "Finance, insurance & real estate": 11,
+   "Restaurants & bars": 18,
+   "Personal services": 11,
+   "General & specialty retail": 15,
+   "Auto sales & service": 5,
+   "Institutional & civic": 2,
+   "Media, printing & entertainment": 4,
+   "Home furnishings, hardware & appliances": 11,
+   "Unidentified business": 2,
+   "Apparel, shoes & fabric": 11,
+   "Professional & business services": 3,
+   "Health & medical": 10
+  },
+  "1968": {
+   "Food stores": 9,
+   "Home furnishings, hardware & appliances": 14,
+   "Restaurants & bars": 19,
+   "Media, printing & entertainment": 5,
+   "General & specialty retail": 14,
+   "Auto sales & service": 6,
+   "Finance, insurance & real estate": 10,
+   "Personal services": 11,
+   "Institutional & civic": 2,
+   "Unidentified business": 3,
+   "Apparel, shoes & fabric": 10,
+   "Professional & business services": 6,
+   "Light industrial, trades & wholesale": 3,
+   "Health & medical": 10
+  },
+  "1973": {
+   "Food stores": 9,
+   "Home furnishings, hardware & appliances": 8,
+   "Institutional & civic": 4,
+   "Apparel, shoes & fabric": 12,
+   "Restaurants & bars": 18,
+   "Media, printing & entertainment": 5,
+   "Auto sales & service": 4,
+   "General & specialty retail": 18,
+   "Unidentified business": 5,
+   "Personal services": 10,
+   "Health & medical": 13,
+   "Professional & business services": 7,
+   "Light industrial, trades & wholesale": 4,
+   "Finance, insurance & real estate": 10
+  },
+  "1987": {
+   "Restaurants & bars": 17,
+   "Unidentified business": 16,
+   "Personal services": 11,
+   "Auto sales & service": 6,
+   "Food stores": 9,
+   "Home furnishings, hardware & appliances": 4,
+   "Apparel, shoes & fabric": 8,
+   "General & specialty retail": 17,
+   "Finance, insurance & real estate": 5,
+   "Media, printing & entertainment": 3,
+   "Professional & business services": 10,
+   "Health & medical": 9,
+   "Institutional & civic": 2,
+   "Light industrial, trades & wholesale": 1
+  }
+ },
+ "lotconf": {
+  "1906": {
+   "medium": 21,
+   "high": 8
+  },
+  "1927": {
+   "high": 23,
+   "low": 1,
+   "medium": 39
+  },
+  "1956": {
+   "high": 116,
+   "medium": 41,
+   "low": 5
+  },
+  "1960": {
+   "high": 116,
+   "medium": 38,
+   "low": 7
+  },
+  "1964": {
+   "high": 116,
+   "medium": 21,
+   "low": 21
+  },
+  "1965": {
+   "high": 116,
+   "medium": 18,
+   "low": 19
+  },
+  "1968": {
+   "high": 111,
+   "low": 19,
+   "medium": 19
+  },
+  "1973": {
+   "high": 105,
+   "medium": 28,
+   "low": 8
+  },
+  "1987": {
+   "high": 98,
+   "low": 13,
+   "medium": 12
+  }
+ },
+ "buckets_text_only": {
+  "1906": {
+   "Food stores": 2,
+   "Finance, insurance & real estate": 1,
+   "Auto sales & service": 1
+  },
+  "1927": {
+   "Health & medical": 8,
+   "Unidentified business": 1,
+   "Food stores": 7
+  },
+  "1956": {
+   "Food stores": 13,
+   "Personal services": 15,
+   "Finance, insurance & real estate": 12,
+   "Light industrial, trades & wholesale": 8,
+   "Health & medical": 15,
+   "Restaurants & bars": 10,
+   "General & specialty retail": 13,
+   "Professional & business services": 8,
+   "Media, printing & entertainment": 5,
+   "Home furnishings, hardware & appliances": 12,
+   "Unidentified business": 1,
+   "Auto sales & service": 5,
+   "Apparel, shoes & fabric": 11,
+   "Institutional & civic": 4
+  },
+  "1960": {
+   "Food stores": 12,
+   "Unidentified business": 3,
+   "Finance, insurance & real estate": 13,
+   "Home furnishings, hardware & appliances": 13,
+   "Restaurants & bars": 16,
+   "Personal services": 14,
+   "Media, printing & entertainment": 6,
+   "General & specialty retail": 15,
+   "Auto sales & service": 6,
+   "Institutional & civic": 4,
+   "Professional & business services": 7,
+   "Apparel, shoes & fabric": 9,
+   "Light industrial, trades & wholesale": 7,
+   "Health & medical": 13
+  },
+  "1964": {
+   "Food stores": 9,
+   "Unidentified business": 3,
+   "Finance, insurance & real estate": 12,
+   "Restaurants & bars": 19,
+   "Personal services": 10,
+   "General & specialty retail": 18,
+   "Auto sales & service": 5,
+   "Institutional & civic": 2,
+   "Media, printing & entertainment": 4,
+   "Home furnishings, hardware & appliances": 12,
+   "Light industrial, trades & wholesale": 4,
+   "Apparel, shoes & fabric": 10,
+   "Professional & business services": 4,
+   "Health & medical": 11
+  },
+  "1965": {
+   "Food stores": 10,
+   "Unidentified business": 3,
+   "Finance, insurance & real estate": 12,
+   "Restaurants & bars": 18,
+   "Personal services": 11,
+   "General & specialty retail": 15,
+   "Auto sales & service": 5,
+   "Institutional & civic": 2,
+   "Media, printing & entertainment": 4,
+   "Home furnishings, hardware & appliances": 11,
+   "Light industrial, trades & wholesale": 5,
+   "Apparel, shoes & fabric": 11,
+   "Professional & business services": 3,
+   "Health & medical": 10
+  },
+  "1968": {
+   "Food stores": 9,
+   "Home furnishings, hardware & appliances": 14,
+   "Restaurants & bars": 19,
+   "Media, printing & entertainment": 5,
+   "General & specialty retail": 14,
+   "Auto sales & service": 6,
+   "Finance, insurance & real estate": 10,
+   "Personal services": 11,
+   "Institutional & civic": 2,
+   "Unidentified business": 3,
+   "Apparel, shoes & fabric": 10,
+   "Professional & business services": 6,
+   "Light industrial, trades & wholesale": 3,
+   "Health & medical": 10
+  },
+  "1973": {
+   "Food stores": 9,
+   "Home furnishings, hardware & appliances": 8,
+   "Institutional & civic": 4,
+   "Apparel, shoes & fabric": 11,
+   "Restaurants & bars": 18,
+   "Media, printing & entertainment": 5,
+   "Auto sales & service": 4,
+   "General & specialty retail": 18,
+   "Unidentified business": 6,
+   "Personal services": 10,
+   "Health & medical": 13,
+   "Professional & business services": 7,
+   "Light industrial, trades & wholesale": 4,
+   "Finance, insurance & real estate": 10
+  },
+  "1987": {
+   "Restaurants & bars": 17,
+   "Unidentified business": 18,
+   "Personal services": 11,
+   "Auto sales & service": 6,
+   "Food stores": 9,
+   "Home furnishings, hardware & appliances": 4,
+   "Apparel, shoes & fabric": 7,
+   "General & specialty retail": 17,
+   "Finance, insurance & real estate": 5,
+   "Media, printing & entertainment": 3,
+   "Professional & business services": 9,
+   "Health & medical": 9,
+   "Institutional & civic": 2,
+   "Light industrial, trades & wholesale": 1
+  }
+ },
+ "bucket_change": {
+  "1956": {
+   "Finance, insurance & real estate": -1
+  },
+  "1960": {
+   "Finance, insurance & real estate": -1,
+   "Light industrial, trades & wholesale": 1,
+   "Unidentified business": -1
+  },
+  "1964": {
+   "Finance, insurance & real estate": -1,
+   "Food stores": 1,
+   "Light industrial, trades & wholesale": 1,
+   "Unidentified business": -1
+  },
+  "1965": {
+   "Finance, insurance & real estate": -1,
+   "Food stores": 1,
+   "Light industrial, trades & wholesale": 1,
+   "Unidentified business": -1
+  },
+  "1973": {
+   "Apparel, shoes & fabric": 1,
+   "Unidentified business": -1
+  },
+  "1987": {
+   "Apparel, shoes & fabric": 1,
+   "Professional & business services": 1,
+   "Unidentified business": -2
+  }
+ },
+ "findings_by_status": {
+  "identified": 3,
+  "not_found": 73,
+  "confirmed": 13,
+  "corrected": 5
+ }
+}

@@ -22,3 +22,20 @@
 ## Bucket proposals
 
 (none yet)
+
+## Questions raised during the research
+
+3. **Language of service as a clientele indicator?** Several sources show who a business was serving without
+   saying it outright: a Spanish-only salon ad ("Estilista para hombres"), "Se Habla Español", bilingual menus,
+   Spanish signage in LAPL's 1980 photos, ads placed in a Spanish-language magazine. Under rule 1 these are
+   in `researcher_notes` only. If you want them coded, I'd suggest a separate column
+   (`service_language`, e.g. "Spanish", "Spanish/English") rather than putting them in `clientele_ethnicity`.
+4. **Area-level descriptions** (e.g. a 1978 teaching module listing Pioneer Market as a resource for
+   "economically depressed areas" that takes food stamps): coded nothing for now. Code `clientele_class`
+   from these?
+5. **Owner-name business registrations without a trade.** Three 1987 capitals listings (1498 #4, 1513½,
+   1529) are confirmed as businesses by city tax accounts but stay *Unidentified business*. They are recorded
+   as `confirmed` against the current call. If you'd rather keep `confirmed` for trade confirmations only,
+   these could be `not_found` with the registration in the notes; the counts don't change either way.
+6. **Possible new bucket?** None needed so far. Polychrome/Westco (lithographic supplies distributor) went
+   to Light industrial, trades & wholesale as the closest fit.
