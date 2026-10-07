@@ -49,6 +49,28 @@ Added later in the session (also usable):
   (Polychrome / Westco Litho at 1402), IA yearbook ad (Carmela's Fashions).
 - Dead ends: general web search for 1950s–80s names (returns only current businesses); TESSA photos are
   rarely captioned with a street number.
-- Context found but not tied to a directory listing: "20 de Mayo", a Spanish-language weekly (Abel Pérez,
-  editor), at 1824 W Sunset #202 in a 1980 federal report and a 1983 RJR report. Not in the 1973 or 1987
+- Context found but not tied to a directory listing: "20 de Mayo", a newspaper at 1824 W Sunset: listed as
+  "20 de Mayo Newspaper, 1824 W. Sunset Blvd." in the newspaper list of an ERIC program report (Aug 1980,
+  archive.org/details/micro_IA41153518_0192), and as "20 De Mayo, 1824 Sunset Blvd. Suite 202 ... Editor:
+  Abel Perez" in a 1983 RJR list of Los Angeles Hispanic publications
+  (archive.org/details/6162278-1983-11-RJR-Social-Responsibility-Interim-Report). Not in the 1973 or 1987
   directory pages.
+
+## Batch 2 (priority 1–3 continued, some priority 4), 2026-10-07
+- Yearbook scan: streamed the OCR text of every 1950–92 yearbook on IA from schools named Cathedral, Belmont,
+  Marshall, Lincoln, Franklin, Sacred Heart, Bishop Conaty, Loretto, Immaculate Heart, LA High, Cantwell, St.
+  Bernard (about 400 items; many are same-named schools elsewhere, filtered out by requiring an LA context
+  near the address). 13 ads on this strip: Sam's Service Station 1475 (1959), Henry's For Men 1602 (1958),
+  Uncle Ben Furniture 1555 (1969), Brite Spot 1918 (1969), Parsons' Stationers 1723 (1969), Carmela's
+  Fashions 1511, M. Dolores Garcia bookkeeping 1463, Pioneer 1601, Nayarit 1822, Valdes sewing center 1714
+  (all 1972), Pioneer (1981), Gerry's Dept Store 1554 (1987, 1988). OCR often runs neighbouring ads together
+  (e.g. a "Japanese Realty Assn" ad with its own address on W Jefferson sits beside the 1714 ad), so each ad
+  is re-read before use.
+- Trade/consumer magazines on IA were the best source for 1950s–70s owners: The Cattleman 1961 (Winston
+  Schaefer Inc = owner of Pioneer Supermarket), Gráfica 1977 (Gold Room Cocktail Lounge, same phone as 1968/73).
+- Dead ends / limits: many IA books are lending-only and return 401/403 for their text (Paul Wallach's 1990
+  restaurant guide, a 1969 "Business Directory and Buyers Guide" with Nikolas Inc, the 1981 Cal State LA alumni
+  directory with Glynn Boxer & Phillips at 1824 Sunset, a 1999 trade-associations directory). Their search
+  snippets are not used as evidence; they are listed in notes as unread leads.
+- A 1987 Haines criss-cross directory ("CA Los Angeles County West Suburban 1987") is in IA's full-text index
+  but the item itself is dark (404). It covers the West Suburban area anyway; no central-LA Haines volume found.
