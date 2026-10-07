@@ -39,3 +39,8 @@
    these could be `not_found` with the registration in the notes; the counts don't change either way.
 6. **Possible new bucket?** None needed so far. Polychrome/Westco (lithographic supplies distributor) went
    to Light industrial, trades & wholesale as the closest fit.
+7. **Air transport.** Helitac Aviation (1910 Sunset, Suite 900, 1987) was a helicopter charter operator's
+   office. No transportation bucket exists; filed under Professional & business services. A
+   "Transportation" bucket (NAICS 48–49) would hold it, plus any moving/trucking now in Light industrial.
+8. **Makers who sell mainly wholesale** (Helen's Natural Fruit Bars, 1484) kept in Food stores; move to
+   Light industrial, trades & wholesale?
