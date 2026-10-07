@@ -85,3 +85,7 @@ Added later in the session (also usable):
   slow, roughly 1–3 per minute); TESSA name search at 1 query/s.
 - Note: ABC license 187442 (Dos Leos Inc, type 48 bar, 1455 W Sunset) was issued and canceled the same day,
   14-APR-1987; the 1987 directory lists nothing at 1455. Not recorded (no entity; may never have operated).
+- TESSA name search for p4 business names finished: only Pioneer Super Market photos (1934–47, no new
+  information for the listed years), Angelus Temple photos (temple on Glendale Blvd, not the 1910 Sunset
+  offices), a 1976 Burrito King / liquor store photo at 2109 Sunset (outside the 1400–2100 range), and the
+  1980 street photo at 1547. Nothing recorded from it.
