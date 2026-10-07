@@ -1,0 +1,663 @@
+entity_id,priority,lot,addresses,years,name_variants,phones,current_desc,current_bucket,current_confidence,current_basis,listing_ids
+E0001,1,1402,1402,1960 1964 1965,Polychrome Corp | POLYCHROME CORP,1960:MA 8-5341 | 1964:MA8-5341 | 1965:MA8-5341,unidentified business (name only),Unidentified business,low,"corporation, trade not stated",1960-1402-01 1964-1402-01 1965-1402-01
+E0002,1,1402,1402,1987,EL ESPANOL INTERNATL,1987:482-9001,unidentified business (name only),Unidentified business,low,name only,1987-1402-01
+E0003,1,1406,1406,1927,Rose Mme,1927:FA 2071,"unidentified (listing style suggests a proprietor, e.g. dressmaker)",Unidentified business,low,'Mme' listed like a trade name,1927-1406-01
+E0004,1,1436,1436,1987,HANSEN AL B,1987:250-3486,unidentified business (personal name in capitals),Unidentified business,low,1987 capitals; earlier years look residential (owner of apartments at this address?),1987-1436-01
+E0005,1,1457,1457,1987,NHAN DUC DUONG,1987:482-8596,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1457-01
+E0006,1,1461,1461½,1987,PHONG LAN,1987:975-1234,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1461h-01
+E0007,1,1467,1467,1987,POJANANOND SUWANNA,1987:481-2115,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1467-02
+E0008,1,1498,1498,1987,BODHI GARDENS,1987:250-9023,unidentified business (name only),Unidentified business,low,name only,1987-1498-01
+E0009,1,1498,1498,1987,TRINH THI-HUNG,1987:481-2700,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1498-02
+E0010,1,1501,1501,1987,MATHEWS MARCOS,1987:250-5841,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1501-01
+E0011,1,1511,1511,1956 1960 1964 1965 1968,Central Sales & Serv Co | CENTRAL SALES-SERV,1956:MU 4890 | 1960:MA 8-4890 | 1964:MA8-4890 | 1965:MA8-4890 | 1968:628-4890,sales & service co. (type not stated),Unidentified business,low,name only,1956-1511-01 1960-1511-01 1964-1511-01 1965-1511-01 1968-1511-01
+E0012,1,1511,1511,1960,Kelt Peter Central Sales & Serv Co,1960:MA 8-4890,sales & service co. (type not stated),Unidentified business,low,name only,1960-1511-02
+E0013,1,1511,1511,1973 1987,Carmela's | CARMELA'S,1973:622-6038 | 1987:250-2481,unidentified business (name only),Unidentified business,low,possessive business name,1973-1511-01 1987-1511-01
+E0014,1,1513,1513½,1987,ZUNIGA ENRIQUE,1987:250-0112,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1513h-01
+E0015,1,1519,1519,1973,Cinco,1973:622-8592,unidentified business (name only),Unidentified business,low,name only,1973-1519-01
+E0016,1,1529,1529,1987,REYES EUSEBIO J,1987:250-3024,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1529-01
+E0017,1,1530,1530,1965,SUCURSAL S,1965:MA8-7436,unidentified business (name only),Unidentified business,low,'sucursal' = branch office,1965-1530-01
+E0018,1,1532,1532,1964,ALMOS CORPORATION,1964:628-6697,unidentified business (name only),Unidentified business,low,"corporation, trade not stated",1964-1532-01
+E0019,1,1532,1532,1987,LOS PINOS,1987:977-9066,unidentified business (name only),Unidentified business,low,name only,1987-1532-01
+E0020,1,1535,1535,1973,Rodolfo's,1973:623-3465 | 1973:688-8679,unidentified business (name only),Unidentified business,low,possessive business name,1973-1535-01 1973-1535-02
+E0021,1,1555,1555,1987,WENSLEY COMPANY,1987:482-1765,unidentified business (name only),Unidentified business,low,company name,1987-1555-01
+E0022,1,1566,1566,1987,ZOZULA CARLOS E,1987:250-4644,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1566-01
+E0023,1,1602,1602,1987,SONG KUN H,1987:482-9725,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1602-01
+E0024,1,1706,1706,1968,TRIDENT ENTERPRISES,1968:389-2950,unidentified business (name only),Unidentified business,low,company name in an apartment unit,1968-1706-08
+E0025,1,1721,1721,1968,BERNAL A,1968:380-9304,unidentified business (El Rodeo),Unidentified business,medium,same phone as 1973 'El Rodeo',1968-1721-01
+E0026,1,1721,1721,1968 1973 1987,EL RODEO | El Rodeo,1968:386-0978 | 1973:380-9304 | 1987:413-6272,unidentified business (name only),Unidentified business,low,name only,1968-1721-02 1973-1721-01 1987-1721-01
+E0027,1,1803,1803,1987,MORENO JOSE,1987:413-2809,unidentified business (personal name in capitals),Unidentified business,low,1987 sets businesses in capitals; no trade given,1987-1803-01
+E0028,1,1836,1836,1973,Fernandez & Lopez,1973:484-9395,unidentified business (name only),Unidentified business,low,partnership name,1973-1836-01
+E0029,1,1901,1901,1987,LA ADELITA -SUNSET | LA ADELITA-SUNSET,1987:413-9356 | 1987:483-4169,unidentified business (name only),Unidentified business,low,name only; branch-style name,1987-1901-01 1987-1901-02
+E0030,1,1910,1910,1973,S C S Associates,1973:483-1354,unidentified office (shares phone with Planned Equity Corp),Unidentified business,low,office building tenant,1973-1910-01
+E0031,1,1910,1910,1973,Shabkie Semon J,1973:484-1870,office tenant (trade not stated),Unidentified business,low,name listed in an office building,1973-1910-03
+E0032,1,1910,1910,1973,Friedman Irwin M,1973:484-8562,office tenant (trade not stated),Unidentified business,low,name in an office-building suite,1973-1910-09
+E0033,1,1910,1910,1973 1987,Young And Associates Inc | YOUNG AND ASSOCIATES INC,1973:484-1243 | 1987:484-1243,unidentified business (name only),Unidentified business,low,company name in office suite,1973-1910-08 1987-1910-09
+E0034,1,1910,1910,1987,SHAMBALLA GLOBAL CORP,1987:413-8767,unidentified business (name only),Unidentified business,low,company name in office suite,1987-1910-05
+E0035,1,1910,1910,1987,LEW & WANG,1987:483-8561,unidentified business (name only),Unidentified business,low,partnership name in office suite,1987-1910-08
+E0036,1,1910,1910,1987,M V C ASSOCIATES,1987:413-1063,unidentified business (name only),Unidentified business,low,company name in office suite,1987-1910-17
+E0037,1,2029,2029,1960,Aquafilter Westrn,1960:DU 4-8181,water filter company,Unidentified business,low,name only,1960-2029-01
+E0038,2,1455,1455,1956,Shack Inn,1956:MA 9-9191,bar / tavern (likely),Restaurants & bars,low,'Inn' with no lodging context,1956-1455-01
+E0039,2,1475,1475,1960,Sam's Serv,1960:MA 8-7561,service station (likely),Auto sales & service,low,'Serv' is the directory's usual word for service stations,1960-1475-01
+E0040,2,1477,1477,1960,George's Corner,1960:MA 8-1854,bar or cafe (likely),Restaurants & bars,low,name only; 'Corner' successor is a bar,1960-1477-01
+E0041,2,1485,1485,1960,Mark-It Shopping List Inc,1960:MA 6-6511,shopping-list publisher / advertiser,"Media, printing & entertainment",low,"name only, shares floor with TV Fanfare Publications",1960-1485-01
+E0042,2,1485,1485,1987,BEN'S SHOP,1987:482-1495,shop (type not stated),General & specialty retail,low,name only,1987-1485-01
+E0043,2,1503,1503,1968,DOLORES SHOP,1968:628-5829,shop (type not stated),General & specialty retail,low,name only,1968-1503-01
+E0044,2,1515,1515,1964 1965,MIDNIGHT SUN,1964:688-9386 | 1965:688-9386,bar or restaurant (likely),Restaurants & bars,low,name only; restaurant before and tavern after at same address,1964-1515-01 1965-1515-01
+E0045,2,1528,1528,1973,White Cross Store No 38,1973:626-7949,"chain store, likely drugstore (White Cross)",Health & medical,low,"numbered chain store; White Cross as a drug chain is general knowledge, not verified",1973-1528-01
+E0046,2,1529,1529,1973,Dolores' Shop,1973:485-1386,shop (type not stated),General & specialty retail,low,name only,1973-1529-01
+E0047,2,1530,1530,1956,Kay Harry J mdsng,1956:MU 2609,merchandise / general goods,General & specialty retail,low,'mdsng',1956-1530-01
+E0048,2,1530,1530,1960,Dora's Shoppe,1960:MA 8-1970,shop (type not stated),General & specialty retail,low,name only,1960-1530-01
+E0049,2,1532,1532,1965,UNIVERSAL PRODS-SALS,1965:628-6550,products sales (likely wholesale),"Light industrial, trades & wholesale",low,'prods-sals',1965-1532-01
+E0050,2,1544,1544,1960,Acebo Lorenzo Larry's New Place,1960:MA 9-9740,bar or cafe (likely),Restaurants & bars,low,name only,1960-1544-01
+E0051,2,1544,1544,1960,Larry's New Place,1960:MA 9-9740,bar or cafe (likely),Restaurants & bars,low,name only,1960-1544-02
+E0052,2,1558,1558,1960 1964 1965 1968 1973 1987,Gold Room The | GOLD ROOM THE | GOLD ROOM,1960:MA 8-3709 | 1964:MA8-3709 | 1965:MA8-3709 | 1968:628-3709 | 1973:628-3709 | 1987:482-5259 | 1987:977-9031,bar (likely),Restaurants & bars,low,"name only; long-running bar is general knowledge, not verified",1960-1558-01 1964-1558-01 1965-1558-01 1968-1558-01 1973-1558-01 1987-1558-01 1987-1558-02
+E0053,2,1618,1618,1987,FINER DAVID STUDIOS,1987:250-4787,studio (type not stated),"Media, printing & entertainment",low,"'Studios', shares address with Finer's clothing store",1987-1618-02
+E0054,2,1700,1700,1973,Circle Rents & Sales,1973:484-8420,rental & sales shop,General & specialty retail,low,'rents & sales',1973-1700-02
+E0055,2,1701,1701,1987,PESCADO MOJADO INC,1987:413-8712,seafood restaurant or market (likely),Restaurants & bars,low,name only ('wet fish'),1987-1701-01
+E0056,2,1710,1710,1964 1965 1968,DORAS SHOPPE,1964:389-0527 | 1965:389-0527 | 1968:389-0527,shop (type not stated),General & specialty retail,low,name only,1964-1710-01 1965-1710-01 1968-1710-01
+E0057,2,1710,1710,1973,Dora's Shoppe,1973:484-1202,shop (type not stated),General & specialty retail,low,name only,1973-1710-01
+E0058,2,1710,1710,1987,NENA'S SHOPPE,1987:484-1202,shop (type not stated),General & specialty retail,low,name only,1987-1710-01
+E0059,2,1712,1712,1960,Toni's,1960:DU 8-9821,shop (type not stated),General & specialty retail,low,same phone as 1956 'Jeanette's Children's Wear & Toys',1960-1712-01
+E0060,2,1714,1714,1964 1965 1968,TONIS,1964:DU8-9821 | 1965:388-9821 | 1968:388-9821,shop (type not stated),General & specialty retail,low,same name as 1960 'Toni's' next door,1964-1714-01 1965-1714-01 1968-1714-01
+E0061,2,1723,1723,1960,Jay Leslie's,1960:DU 5-6134,shop (type not stated),General & specialty retail,low,"possessive business name, no trade given",1960-1723-01
+E0062,2,1723,1723,1960,Leslie's Jay,1960:DU 5-6134,shop (type not stated),General & specialty retail,low,"possessive business name, no trade given",1960-1723-02
+E0063,2,1731,1731,1956,Jay Leslie's,1956:DU 3-6314,shop (type not stated),General & specialty retail,low,"possessive business name, no trade given",1956-1731-01
+E0064,2,1731,1731,1956,Leslie Jay | Leslie's Jay,1956:DU 3-6314,shop (type not stated),General & specialty retail,low,"possessive business name, no trade given",1956-1731-02 1956-1731-03
+E0065,2,1805,1805,1956 1960 1964 1965,Label Inn | LABEL INN THE,1956:DU 2-0125 | 1960:DU 2-0125 | 1964:386-0848 | 1965:386-0848,bar / tavern (likely),Restaurants & bars,low,'Inn'; later a beer bar at the same address,1956-1805-01 1960-1805-01 1964-1805-01 1965-1805-01
+E0066,2,1825,1825,1987,PETRIE GEORGE A,1987:483-3128,finance / loan company,"Finance, insurance & real estate",low,same phone as 1973 'Bankers Financial Co'; 1987 capitals,1987-1825-01
+E0067,2,1901,1901,1956 1960,McMahon's Serv,1956:DU 2-9614 | 1960:DU 2-9614,service station (likely),Auto sales & service,low,'Serv' is the directory's usual word for service stations,1956-1901-01 1960-1901-01
+E0068,2,1910,1910,1987,HING ALBERT L AGENCY,1987:483-9976,agency (likely insurance),"Finance, insurance & real estate",low,'agency' in office suite,1987-1910-07
+E0069,2,1910,1910,1987,JWCH INSTITUTE INC,1987:484-1186,nonprofit health institute,Institutional & civic,low,"'Institute'; JWCH as a nonprofit is general knowledge, not verified",1987-1910-12
+E0070,2,2040,2040,1968,SWANK FRANK THE,1968:386-0967,food stand (likely),Restaurants & bars,low,name only ('frank' suggests hot dogs),1968-2040-02
+E0071,3,1406,1406,1960,Shade L B,1960:MA 4-5358,real estate / property,"Finance, insurance & real estate",medium,"1956 'Shade L B rl est', same address",1960-1406-01
+E0072,3,1449,1449,1973 1987,Nikola's | NIKOLA'S,1973:628-8005 | 1987:250-4505,restaurant / cafe,Restaurants & bars,medium,1960 'Nikola's restrnt' at same address,1973-1449-01 1987-1449-01
+E0073,3,1477,1477,1964 1965 1968,RUDYS CORNER,1964:MA5-8373 | 1965:MA5-8373 | 1968:625-8373,bar / cocktail lounge,Restaurants & bars,medium,same phone as 1973 'Little Joy Cocktails',1964-1477-01 1965-1477-01 1968-1477-01
+E0074,3,1515,1515,1973,Woodstock Gallery,1973:628-1481,art gallery / shop,General & specialty retail,medium,'Gallery',1973-1515-01
+E0075,3,1530,1530½,1956,Zuk S r,1956:MU 1779,shoe store,"Apparel, shoes & fabric",medium,same phone as 'Zuk S shoe store' 1960-68,1956-1530h-01
+E0076,3,1530,1530½,1973,Zuk S,1973:628-1779,shoe store,"Apparel, shoes & fabric",medium,same phone as 'Zuk S shoe store' 1960-68,1973-1530h-01
+E0077,3,1546,1546,1973,Acebo Lorenzo,1973:688-8808,record / music store,"Media, printing & entertainment",medium,1968 'ACEBO L-RECORDS' at same address,1973-1546-01
+E0078,3,1601,1601,1956 1960,Schaefer Winston Inc,1956:MA 6-7186 | 1960:MA 6-7186,real estate / property,"Finance, insurance & real estate",medium,later 'Winston Schaefer Realty Co'; same phone as Pioneer Mkt,1956-1601-02 1960-1601-02
+E0079,3,1601,1601,1956 1960,Winston Schaefer Inc,1956:MA 6-7186 | 1960:MA 6-7186,real estate / property,"Finance, insurance & real estate",medium,later 'Winston Schaefer Realty Co'; same phone as Pioneer Mkt,1956-1601-03 1960-1601-03
+E0080,3,1601,1601,1964 1965,SCHAEFER WM INC,1964:MA6-7186 | 1965:MA6-7186,real estate / property,"Finance, insurance & real estate",medium,same phone as 1956-60 'Winston Schaefer Inc',1964-1601-01 1965-1601-01
+E0081,3,1621,1621,1973,Wesley Carl J,1973:626-3470,physician's office,Health & medical,medium,"1968 'WESLEY C J-MD', same phone",1973-1621-01
+E0082,3,1706,1706½,1987,DIAZ RAFAEL J,1987:483-4944,tax preparation,Professional & business services,medium,same phone as 1973 'R & M Income Tax Service'; 1987 capitals,1987-1706h-01
+E0083,3,1803,1803,1964,ROWE S,1964:DU2-2567,physician's office,Health & medical,medium,"1956-60 'Rowe Stephen Dr', same phone",1964-1803-01
+E0084,3,1805,1805,1973 1987,El Prado | EL PRADO,1973:386-0104 | 1987:413-9673 | 1987:483-8609,bar / cocktail lounge,Restaurants & bars,medium,1968 'EL PRADO BEER BAR' at same address,1973-1805-01 1987-1805-01 1987-1805-02
+E0085,3,1824,1824,1973 1987,Glynn Boxer & Phillips | GLYNN BOXER & PHILLIPS,1973:484-1121 | 1987:484-1121,accountant,Professional & business services,medium,1968 'GLYNN-BOXER-CPAS',1973-1824-02 1987-1824-01
+E0086,3,1910,1910,1968 1973 1987,CASS-JOHANSING | Cass & Johansing | CASS & JOHANSING,1968:382-1979 | 1973:484-8171 | 1987:484-8171,insurance agency,"Finance, insurance & real estate",medium,"1968 'CASS-JOHANSING-INS', same suite",1968-1910-03 1973-1910-13 1987-1910-13
+E0087,3,1910,1910,1987,PARK SUNSET BUILDING,1987:484-8880,office building management,"Finance, insurance & real estate",medium,building office in suite,1987-1910-04
+E0088,3,1910,1910,1987,LOS ANGELES COUNTY PROFESSIONAL PEACE,1987:413-3650,professional / employee association,Institutional & civic,medium,truncated '...PEACE OFFICERS'; same name as suite 430,1987-1910-18
+E0089,3,2029,2029,1960,Holmes Louis A,1960:DU 3-7371,insurance agency,"Finance, insurance & real estate",medium,same phone as 'Westrn Travelers Ins',1960-2029-02
+E0090,3,2035,2035,1973,Caceres Victor M,1973:484-8608,gas / service station,Auto sales & service,medium,1987 'CACERES VICTOR CHEVRON SERVICE'; Standard Oil at same address 1973,1973-2035-02
+E0091,4,1400,1400,1927,Jackson Pharmacy,1927:MU 0815,pharmacy / drugstore,Health & medical,high,trade/name keyword,1927-1400-01
+E0092,4,1400,1400,1956 1960,Gina's Mkt grocrs,1956:MU 1988 | 1960:MA 8-1988,grocery / market,Food stores,high,trade/name keyword,1956-1400-01 1960-1400-01
+E0093,4,1400,1400,1964 1965,GINAS MARKET,1964:MA8-1988 | 1965:MA8-1988,grocery / market,Food stores,high,trade/name keyword,1964-1400-01 1965-1400-01
+E0094,4,1400,1400,1968,ALS MARKET GROCERIES,1968:628-1988,grocery / market,Food stores,high,trade/name keyword,1968-1400-01
+E0095,4,1400,1400,1973,Lim's Bros Market,1973:628-5801,grocery / market,Food stores,high,trade/name keyword,1973-1400-01
+E0096,4,1400,1400,1987,BUDDY'S FAST FOODS,1987:250-1339,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1987-1400-01
+E0097,4,1402,1402,1956,Margarette's Clnrs,1956:MU 3664,laundry / dry cleaner,Personal services,high,trade/name keyword,1956-1402-01
+E0098,4,1402,1402,1968,DAAD CO THE-LIGHTING,1968:629-2008,lighting fixtures,"Home furnishings, hardware & appliances",high,trade/name keyword,1968-1402-01
+E0099,4,1402,1402,1973,Daad Co The,1973:629-2008,lighting fixtures,"Home furnishings, hardware & appliances",high,trade/name keyword,1973-1402-01
+E0100,4,1406,1406,1956,Shade L B rl est,1956:MA 9-2066,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1406-01
+E0101,4,1410,1410,1973,Internatl Geneva Assn,1973:625-8397,Geneva Association (hospitality workers' society),Institutional & civic,high,trade/name keyword,1973-1410-01
+E0102,4,1412,1412,1987,LONDON HAIR DESIGN,1987:250-7724,beauty salon,Personal services,high,trade/name keyword,1987-1412-01
+E0103,4,1414,1414,1960,Helen's Natural Fruit Confectionery,1960:MA 9-1084,ice cream / candy shop,Food stores,high,trade/name keyword,1960-1414-01
+E0104,4,1414,1414,1960,Petrulli Helen Helen's Natural Fruit Confectionery,1960:MA 9-1084,ice cream / candy shop,Food stores,high,trade/name keyword,1960-1414-02
+E0105,4,1414,1414,1964 1965 1968,HELENS CONFECTIONARY,1964:MA9-1084 | 1965:MA9-1084 | 1968:629-1084,ice cream / candy shop,Food stores,high,trade/name keyword,1964-1414-01 1965-1414-01 1968-1414-01
+E0106,4,1416,1416,1987,UNION EASTERN TIRE CO,1987:250-1802,tire shop,Auto sales & service,high,trade/name keyword,1987-1416-01
+E0107,4,1420,1420,1956,Col-R-Set Products Co ink compnd,1956:MU 7870,manufacturing / manufacturers' agent,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1420-01
+E0108,4,1422,1422,1964 1965 1968 1973,LOUIS CHERPIN WINERY | Louis Cherpin Winery,1964:MA4-3592 | 1965:MA4-3592 | 1968:624-3592 | 1973:624-3592,winery / wine shop,Food stores,high,trade/name keyword,1964-1422-01 1965-1422-01 1968-1422-01 1973-1422-01
+E0109,4,1422,1422,1987,WING LEE SHRIMP CO,1987:250-4504,meat / seafood market,Food stores,high,trade/name keyword,1987-1422-01
+E0110,4,1427,1427,1956 1960,Sunset Super Mkt,1956:MA 6-3435 | 1960:MA 6-3435,grocery / market,Food stores,high,trade/name keyword,1956-1427-01 1960-1427-01
+E0111,4,1427,1427,1964 1965,RIOS J ASSOCS INS,1964:624-8686 | 1965:624-8686,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1964-1427-01 1965-1427-03
+E0112,4,1427,1427,1965,IDEAL RENTALS-RL EST,1965:246-8179 | 1965:626-9184,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1965-1427-01 1965-1427-02
+E0113,4,1429,1429,1987,CASA BLANCA FURNITURE,1987:250-2900,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1987-1429-01
+E0114,4,1437,1437,1960,Tracy TV & Radio,1960:MA 6-5920,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1437-01
+E0115,4,1439,1439,1927,Reliable Poultry Mkt,1927:MU 9518,poultry market,Food stores,high,trade/name keyword,1927-1439-01
+E0116,4,1439,1439,1956 1960 1964 1965 1968,On Sang Poultry Co | ON SANG POULTRY,1956:MU 4535 | 1960:MA 6-8278 | 1964:MA6-8278 | 1965:MA6-8278 | 1968:626-8278,poultry market,Food stores,high,trade/name keyword,1956-1439-01 1960-1439-01 1964-1439-01 1965-1439-01 1968-1439-01
+E0117,4,1439,1439,1973,Tong's Dress Shop,1973:485-1476,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1439-01
+E0118,4,1439,1439,1987,EVAN FASHIONS,1987:482-5352,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1987-1439-01
+E0119,4,1444,1444,1956,Poulos Arthur I Dr,1956:MU 8594,physician's office,Health & medical,high,trade/name keyword,1956-1444-01
+E0120,4,1449,1449,1927,Sunland Pub Mkt,1927:MU 0833,grocery / market,Food stores,high,trade/name keyword,1927-1449-01
+E0121,4,1449,1449,1960,Nikola's restrnt,1960:MA 8-8005,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1960-1449-01
+E0122,4,1449,1449,1960,Rasic Nick Nikola's restrnt,1960:MA 8-8005,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1960-1449-02
+E0123,4,1449,1449,1964 1965 1968,NIKOLAS,1964:MA8-8005 | 1965:MA8-8005 | 1968:628-8005,restaurant / cafe,Restaurants & bars,high,"1960 'Nikola's restrnt', same phone",1964-1449-01 1965-1449-01 1968-1449-01
+E0124,4,1451,1451,1956 1960,Cherpin Louis Winery,1956:MI 3592 | 1960:MA 4-3592,winery / wine shop,Food stores,high,trade/name keyword,1956-1451-01 1960-1451-01
+E0125,4,1451,1451,1956 1960,Louis Cherpin Winery,1956:MI 3592 | 1960:MA 4-3592,winery / wine shop,Food stores,high,trade/name keyword,1956-1451-02 1960-1451-02
+E0126,4,1453,1453,1956 1960,Echo Park Laundromat,1956:MU 8091 | 1960:MA 8-8091,laundry / dry cleaner,Personal services,high,trade/name keyword,1956-1453-01 1960-1453-01
+E0127,4,1453,1453,1964,ECHO PRK LNDROMT,1964:MA8-8091,laundry / dry cleaner,Personal services,high,trade/name keyword,1964-1453-01
+E0128,4,1453,1453,1965,ECHO PK LAUNDERETTE,1965:628-8091,laundry / dry cleaner,Personal services,high,trade/name keyword,1965-1453-01
+E0129,4,1457,1457,1927,Sutherland Mkt,1927:MU 9831,grocery / market,Food stores,high,trade/name keyword,1927-1457-01
+E0130,4,1457,1457,1960,TV Fanfare Publications production dept,1960:MA 6-4818,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1960-1457-01
+E0131,4,1459,1459½,1956 1960,Gomez Andrew Sunset Leather Goods Co | Gomez Andrew Sunset Leather Goods,1956:MU 3508 | 1960:MA 8-3508,leather goods shop,General & specialty retail,high,trade/name keyword,1956-1459h-01 1960-1459h-01
+E0132,4,1459,1459½,1956 1960 1964 1965 1968,Sunset Leather Goods | SUNSET LEATHER GOODS,1956:MU 3508 | 1960:MA 8-3508 | 1964:MA8-3508 | 1965:MA8-3508 | 1968:628-3508,leather goods shop,General & specialty retail,high,trade/name keyword,1956-1459h-02 1960-1459h-02 1964-1459h-01 1965-1459h-01 1968-1459h-01
+E0133,4,1459,1459,1968,EHRET T PHOTOGRAPHY,1968:626-2737,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1968-1459-01
+E0134,4,1459,1459,1973,Ehret Theo Photography,1973:626-2737,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1973-1459-01
+E0135,4,1459,1459,1987,ANNA'S GROCERY MARKET,1987:481-2282,grocery / market,Food stores,high,trade/name keyword,1987-1459-01
+E0136,4,1459,1459½,1987,HECTOR'S SHOE REPAIR,1987:250-7089,shoe repair,Personal services,high,trade/name keyword,1987-1459h-01
+E0137,4,1461,1461 1461½,1964 1965 1968 1973,GENERAL REPAIR | General Repair,1964:MA5-8710 | 1965:MA5-8710 | 1968:625-1463 | 1973:625-1463,auto repair,Auto sales & service,high,trade/name keyword,1964-1461-06 1965-1461-04 1968-1461h-01 1973-1461h-01
+E0138,4,1463,1463,1987,ALICE BEAUTY SALON,1987:977-0266,beauty salon,Personal services,high,trade/name keyword,1987-1463-01
+E0139,4,1465,1465,1956,Burgess E R Dick Col & Associates auctnrs,1956:MU 5832,auctioneer,Professional & business services,high,'auctnrs',1956-1465-01
+E0140,4,1465,1465,1956,South West Auction Parlor,1956:MU 5832,auctioneer,Professional & business services,high,trade/name keyword,1956-1465-02
+E0141,4,1465,1465,1960,Daad Co The lightng,1960:MA 9-2827,lighting fixtures,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1465-01
+E0142,4,1465,1465,1960,Kiatta Nicholas Daad Co The lightng,1960:MA 9-2827,lighting fixtures,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1465-02
+E0143,4,1466,1466½,1968,STATEWIDE HOMEOWNERS,1968:629-8158,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1968-1466h-01
+E0144,4,1467,1467,1964 1965 1968,BOB GOMEZ SHELL SRV,1964:MA9-3479 | 1965:MA9-3479 | 1968:629-3479,gas / service station,Auto sales & service,high,trade/name keyword,1964-1467-01 1965-1467-01 1968-1467-01
+E0145,4,1467,1467,1987,NAY-MEX TIRES,1987:250-5844,tire shop,Auto sales & service,high,trade/name keyword,1987-1467-01
+E0146,4,1477,1477,1956,Matlin Pharmacy,1956:MU 9487,pharmacy / drugstore,Health & medical,high,trade/name keyword,1956-1477-01
+E0147,4,1477,1477,1973 1987,Little Joy Cocktails | LITTLE JOY COCKTAILS,1973:625-8373 | 1987:250-3417,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1973-1477-01 1987-1477-01
+E0148,4,1479,1479,1960 1964,Sylvester Anthony tlr | SYLVESTER ANTHONY TLR,1960:MA 5-8005 | 1964:MA5-8005,tailor,Personal services,high,trade/name keyword,1960-1479-01 1964-1479-01
+E0149,4,1479,1479,1965 1968,SYLVESTER A-TAILOR,1965:625-8005 | 1968:625-8005,tailor,Personal services,high,trade/name keyword,1965-1479-01 1968-1479-01
+E0150,4,1479,1479,1987,DRAGONSNEST BOOKS,1987:250-2301,book / stationery store,General & specialty retail,high,trade/name keyword,1987-1479-01
+E0151,4,1484,1484,1960,Internatl Geneva Assn,1960:MA 5-8397,Geneva Association (hospitality workers' society),Institutional & civic,high,trade/name keyword,1960-1484-01
+E0152,4,1484,1484,1964 1965 1968,INTERNATL GENEVA,1964:MA5-8397 | 1965:MA5-8397 | 1968:625-8397,Geneva Association (hospitality workers' society),Institutional & civic,high,trade/name keyword,1964-1484-01 1965-1484-01 1968-1484-01
+E0153,4,1484,1484,1973,Helen's Natural Fruit Confectionery,1973:629-1084,ice cream / candy shop,Food stores,high,trade/name keyword,1973-1484-01
+E0154,4,1485,1485,1956,TV Fanfare Publications,1956:MA 6-4444,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1956-1485-01
+E0155,4,1485,1485,1956 1960,Ringling Advertising Agcy,1956:MA 6-4444 | 1960:MA 6-4444,advertising agency,Professional & business services,high,trade/name keyword,1956-1485-02 1960-1485-03
+E0156,4,1485,1485,1956 1960,Ringling Offset Press,1956:MA 6-4444 | 1960:MA 6-4444,printing shop,"Media, printing & entertainment",high,trade/name keyword,1956-1485-03 1960-1485-04
+E0157,4,1485,1485,1960,TV Fanfare Publications main ofc,1960:MA 6-4444,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1960-1485-02
+E0158,4,1485,1485,1964 1965,T V FANFARE PUB,1964:626-1718 | 1965:626-1718,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1964-1485-01 1965-1485-01
+E0159,4,1485,1485,1964 1965,G N S PRINTERS,1964:626-6741 | 1965:626-6741,printing shop,"Media, printing & entertainment",high,trade/name keyword,1964-1485-02 1965-1485-02
+E0160,4,1485,1485,1968,SINGERS RUG-CARPET,1968:683-1737,carpet / floor covering,"Home furnishings, hardware & appliances",high,trade/name keyword,1968-1485-01
+E0161,4,1487,1487,1956,Singer Carpet & Rug Co | Singer's Carpet & Rug Co,1956:MA 5-1491,carpet / floor covering,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1487-01 1956-1487-03
+E0162,4,1487,1487,1956,Singer Rug & Carpet Co | Singer's Rug & Carpet Co,1956:MA 5-1491,carpet / floor covering,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1487-02 1956-1487-04
+E0163,4,1487,1487,1960 1964 1965 1968 1973,Quality Glass & Mirror Co | QUALITY GLASS-MIRROR,1960:MA 8-3842 | 1964:MA8-3842 | 1965:MA8-3842 | 1968:628-3842 | 1973:628-3842,glass & mirror shop,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1487-01 1964-1487-01 1965-1487-01 1968-1487-01 1973-1487-01
+E0164,4,1487,1487,1987,CITI GROCERY WHSE,1987:482-4803,grocery / market,Food stores,high,trade/name keyword,1987-1487-01
+E0165,4,1489,1489,1960 1973,Emidio's Italian & American Food Mart,1960:MA 9-2977 | 1973:629-2977,deli / specialty food,Food stores,high,trade/name keyword,1960-1489-01 1973-1489-01
+E0166,4,1489,1489,1964 1965 1968,EMIDIOS ITALIAN-,1964:MA9-2977 | 1965:MA9-2977 | 1968:629-2977,deli / specialty food,Food stores,high,truncated 'Emidio's Italian & American Food Mart',1964-1489-01 1965-1489-01 1968-1489-01
+E0167,4,1498,1498,1987,WONG REALTY & INVESTMENT,1987:481-1831,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1987-1498-03
+E0168,4,1498,1498,1987,DYNASTY PRINTING & DESIGN CO,1987:977-1186,printing shop,"Media, printing & entertainment",high,trade/name keyword,1987-1498-04
+E0169,4,1498,1498,1987,WING WAH MARKET,1987:481-1401,grocery / market,Food stores,high,trade/name keyword,1987-1498-05
+E0170,4,1498,1498,1987,DOANH DOANH RESTAURANT,1987:250-5190,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1987-1498-06
+E0171,4,1498,1498,1987,KAMURA TAX SERVICE,1987:250-4860,tax preparation,Professional & business services,high,trade/name keyword,1987-1498-07
+E0172,4,1501,1501,1956,Frances' Beauty Salon,1956:MU 9449,beauty salon,Personal services,high,trade/name keyword,1956-1501-01
+E0173,4,1501,1501,1964 1965,BARNARD VAN-STORAGE,1964:MA8-3962 | 1965:MA8-3962,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1964-1501-01 1965-1501-01
+E0174,4,1501,1501,1973,Nayarit Gift Shop,1973:626-9698,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1973-1501-01
+E0175,4,1501,1501,1987,RAMOS ADALBERTO J DDS,1987:250-3285,dentist's office,Health & medical,high,trade/name keyword,1987-1501-02
+E0176,4,1501,1501,1987,PEREZ FREDY OD,1987:250-5768,optometrist's office,Health & medical,high,trade/name keyword,1987-1501-03
+E0177,4,1501,1501,1987,MONTEAGUDO DELFI DR,1987:250-5688 | 1987:666-5657,physician's office,Health & medical,high,trade/name keyword,1987-1501-04 1987-1501-06
+E0178,4,1501,1501,1987,SUNSET HOLISTIC CENTER,1987:482-5005,holistic health center,Health & medical,high,trade/name keyword,1987-1501-05
+E0179,4,1508,1508,1987,LIQUOR ROYALE,1987:250-0396,liquor store,Food stores,high,trade/name keyword,1987-1508-01
+E0180,4,1509,1509,1956,Wallick W Roy Television & Radio,1956:MU 6867,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1509-02
+E0181,4,1509,1509,1956 1960,Wallic W Roy Television & Radio,1956:MU 6867 | 1960:MA 8-6867,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1509-01 1960-1509-01
+E0182,4,1509,1509,1964 1965,WALLICK W ROY,1964:MA8-6867 | 1965:MA8-6867,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,"1956-60 'Wallick W Roy Television & Radio', same phone",1964-1509-01 1965-1509-01
+E0183,4,1509,1509,1968,CASA-REY RADIO-TV,1968:623-2856,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1968-1509-01
+E0184,4,1509,1509,1973,Casa-Rey Radio & Television,1973:623-2856,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1973-1509-01
+E0185,4,1515,1515,1956,El A-Mexico Delicatessen & Tortilleria,1956:MI 5677,deli / specialty food,Food stores,high,trade/name keyword,1956-1515-01
+E0186,4,1515,1515,1956,Gomez Casimiro R El A-Mexico Delicatessen & Tortilleria,1956:MI 5677,deli / specialty food,Food stores,high,trade/name keyword,1956-1515-02
+E0187,4,1515,1515,1960,Lilias Restaurant,1960:MA 8-0541,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1960-1515-01
+E0188,4,1515,1515,1968,LA BOTANA-TAVRN,1968:689-9610,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1968-1515-01
+E0189,4,1515,1515,1987,CAPRI BEAUTY SALON,1987:250-3859 | 1987:977-9081,beauty salon,Personal services,high,trade/name keyword,1987-1515-01 1987-1515-02
+E0190,4,1516,1516,1956,Standard Oil Co of Calif Standard Stns Inc L A Serv Stns Sunset & Laveta,1956:MA 9-8531,gas / service station,Auto sales & service,high,trade/name keyword,1956-1516-01
+E0191,4,1516,1516,1960,Standard Oil Co of Calif Western Operations Inc standard stns inc Los Angeles Sunset & Laveta,1960:MA 4-5739,gas / service station,Auto sales & service,high,trade/name keyword,1960-1516-01
+E0192,4,1516,1516,1964 1965,STANDARD OIL SERV STN,1964:MA4-5739 | 1965:MA4-5739,gas / service station,Auto sales & service,high,trade/name keyword,1964-1516-01 1965-1516-01
+E0193,4,1516,1516,1968,ALEXS CHEVRON,1968:688-8377,gas / service station,Auto sales & service,high,trade/name keyword,1968-1516-01
+E0194,4,1516,1516,1968,ALEX YAVORSKYS CHVRN,1968:622-2956,gas / service station,Auto sales & service,high,trade/name keyword,1968-1516-02
+E0195,4,1516,1516,1987,HUGO JEWELERS,1987:250-0409,jewelry store,General & specialty retail,high,trade/name keyword,1987-1516-01
+E0196,4,1518,1518,1987,ARMANDO'S TAILORING,1987:250-3327,tailor,Personal services,high,trade/name keyword,1987-1518-01
+E0197,4,1519,1519,1956,Calif Donut Shop,1956:MA 6-3026,donut shop,Restaurants & bars,high,trade/name keyword,1956-1519-01
+E0198,4,1519,1519,1987,MARLANEY'S NAIL SALON & BEAUTY SUPPLY,1987:482-9747,beauty supply store,General & specialty retail,high,trade/name keyword,1987-1519-01
+E0199,4,1522,1522,1987,VILLAGE PIZZA,1987:250-1947,pizzeria,Restaurants & bars,high,trade/name keyword,1987-1522-01
+E0200,4,1524,1524,1973 1987,Patra Burgers | PATRA BURGERS,1973:485-0062 | 1987:250-0301,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-1524-01 1987-1524-01
+E0201,4,1525,1525,1956,Emidio's Italian & American Food Mart,1956:MA 9-2977,deli / specialty food,Food stores,high,trade/name keyword,1956-1525-01
+E0202,4,1525,1525,1960,Stefan's Italian & American Restaurant,1960:MA 8-9647,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1960-1525-01
+E0203,4,1525,1525,1964 1965 1968,TONITAS RESTRNT,1964:689-9569 | 1965:689-9569 | 1968:689-9569,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1525-01 1965-1525-01 1968-1525-01
+E0204,4,1525,1525,1973,Tonitas Restaurant,1973:689-9569,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-1525-01
+E0205,4,1527,1527,1956,Anna's Dressmaking & Alterations,1956:MA 6-5986,dressmaker / alterations,Personal services,high,trade/name keyword,1956-1527-01
+E0206,4,1527,1527,1960 1964 1965 1968 1973,Frances' Beauty Salon | FRANCES BEAUTY SALON,1960:MA 8-9449 | 1964:MA8-9449 | 1965:MA8-9449 | 1968:628-9449 | 1973:628-9449,beauty salon,Personal services,high,trade/name keyword,1960-1527-01 1964-1527-01 1965-1527-01 1968-1527-01 1973-1527-01
+E0207,4,1527,1527,1987,RAY'S BARBER SHOP,1987:250-3217,barber shop,Personal services,high,trade/name keyword,1987-1527-01
+E0208,4,1528,1528,1956 1960,Blue Goose Mkt,1956:MA 5-0566 | 1960:MA 5-0566,grocery / market,Food stores,high,trade/name keyword,1956-1528-01 1960-1528-01
+E0209,4,1528,1528,1965,SUNSET BLVD LOAN,1965:628-2731,finance / loan company,"Finance, insurance & real estate",high,trade/name keyword,1965-1528-01
+E0210,4,1528,1528,1968,CARIBE FURNITURE,1968:626-2702,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1968-1528-01
+E0211,4,1528,1528,1987,MARTIN'S AUTO PARTS NO 2,1987:250-5865,auto parts store,Auto sales & service,high,trade/name keyword,1987-1528-01
+E0212,4,1529,1529,1960,Hale Luis brbr,1960:MA 8-1645,barber shop,Personal services,high,trade/name keyword,1960-1529-01
+E0213,4,1529,1529,1964,HALE L,1964:MA8-1645,barber shop,Personal services,high,"1960 'Hale Luis brbr', same phone",1964-1529-01
+E0214,4,1529,1529,1965 1968,BOULEVARD BARBR SHOP,1965:628-1645 | 1968:628-1645,barber shop,Personal services,high,trade/name keyword,1965-1529-01 1968-1529-01
+E0215,4,1530,1530½,1960 1964 1965 1968,Zuk S shoe store | ZUK S SHOE STORE,1960:MA 8-1779 | 1964:MA8-1779 | 1965:MA8-1779 | 1968:628-1779,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1960-1530h-01 1964-1530h-01 1965-1530h-01 1968-1530h-01
+E0216,4,1530,1530,1973,Capri Beauty Salon,1973:626-9201 | 1973:688-8456,beauty salon,Personal services,high,trade/name keyword,1973-1530-01 1973-1530-02
+E0217,4,1530,1530,1987,INTERNATIONAL BEAUTY SALON,1987:977-9021,beauty salon,Personal services,high,trade/name keyword,1987-1530-01
+E0218,4,1530,1530½,1987,CHAHIN TRAVEL,1987:482-1721,travel agency,Professional & business services,high,trade/name keyword,1987-1530h-01
+E0219,4,1531,1531½,1927,Nelson Clyde V Dr,1927:FA 0383,physician's office,Health & medical,high,trade/name keyword,1927-1531h-01
+E0220,4,1532,1532,1956,Garcia Photography Studio,1956:MU 0498,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1956-1532-01
+E0221,4,1532,1532,1956,Garcia Vidal photgrphr,1956:MU 0498,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1956-1532-02
+E0222,4,1532,1532,1968,MAGDALENO R-TAVRN,1968:688-9069,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1968-1532-01
+E0223,4,1532,1532,1973,L & M Bar,1973:689-9039,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1973-1532-01
+E0224,4,1533,1533,1956,La Veta Clnrs,1956:MU-2459,laundry / dry cleaner,Personal services,high,trade/name keyword,1956-1533-01
+E0225,4,1533,1533,1960 1964 1965 1968 1973,Sunset Trading Post | SUNSET TRADING POST,1960:MA 6-2718 | 1964:MA6-2718 | 1965:MA6-2718 | 1968:626-2718 | 1973:626-2718,department / variety / discount store,General & specialty retail,high,trade/name keyword,1960-1533-01 1964-1533-01 1965-1533-01 1968-1533-01 1973-1533-01
+E0226,4,1533,1533,1987,SIMON VIDEO,1987:977-4930,video store,"Media, printing & entertainment",high,trade/name keyword,1987-1533-01
+E0227,4,1534,1534,1956,Cole F B Office Equipt Serv Co,1956:MU 5408,office machine sales & repair,General & specialty retail,high,trade/name keyword,1956-1534-01
+E0228,4,1534,1534,1956,Office Equipt Serv Co,1956:MU 5408,office machine sales & repair,General & specialty retail,high,trade/name keyword,1956-1534-02
+E0229,4,1534,1534,1956 1960 1968,Office Mach Serv Co | OFFICE MACH SERV CO,1956:MU 2989 | 1960:MA 8-2989 | 1968:628-2989,office machine sales & repair,General & specialty retail,high,trade/name keyword,1956-1534-03 1960-1534-01 1968-1534-01
+E0230,4,1534,1534,1964 1965,OFFICE MACHINE,1964:MA8-2989 | 1965:MA8-2989,office machine sales & repair,General & specialty retail,high,trade/name keyword,1964-1534-01 1965-1534-01
+E0231,4,1534,1534,1973,Office Machine Service Co,1973:628-2989,office machine sales & repair,General & specialty retail,high,trade/name keyword,1973-1534-01
+E0232,4,1535,1535,1956,Sunset Trading Post,1956:MA 6-2718,department / variety / discount store,General & specialty retail,high,trade/name keyword,1956-1535-01
+E0233,4,1535,1535,1987,ECHO PARK TRADING POST,1987:482-9251,department / variety / discount store,General & specialty retail,high,trade/name keyword,1987-1535-01
+E0234,4,1536,1536½,1956,Siracusa Joe Joe's Pizza Romana,1956:MU 4019,pizzeria,Restaurants & bars,high,trade/name keyword,1956-1536h-02
+E0235,4,1536,1536 1536½,1956 1960,Joe's Pizza Romana,1960:MA 8-4019 | 1956:MU 4019,pizzeria,Restaurants & bars,high,trade/name keyword,1960-1536-01 1956-1536h-01
+E0236,4,1536,1536,1964 1965,FLORENCE DOUGHNT SHP,1964:628-2446 | 1965:628-2446,donut shop,Restaurants & bars,high,trade/name keyword,1964-1536-01 1965-1536-01
+E0237,4,1536,1536,1968 1973,BARRAGAN CAFE | Barragan Cafe,1968:688-9721 | 1973:688-9721,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1968-1536-01 1973-1536-01
+E0238,4,1537,1537,1964 1965 1968,SUNSET THE-COCKTAILS,1964:628-9645 | 1965:628-9645 | 1968:628-9645,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1964-1537-01 1965-1537-01 1968-1537-01
+E0239,4,1537,1537,1973,Sunset The,1973:628-9645,bar / cocktail lounge,Restaurants & bars,high,"1964-68 'SUNSET THE-COCKTAILS', same phone",1973-1537-01
+E0240,4,1538,1538½,1956 1960,Gene's Beauty Shop,1956:MA 6-7954 | 1960:MA 6-7954,beauty salon,Personal services,high,trade/name keyword,1956-1538h-01 1960-1538h-01
+E0241,4,1538,1538,1960,Copper Lantern tavern,1960:MA 6-2586,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1960-1538-01
+E0242,4,1538,1538,1964 1965,COPPER LANTERN,1964:MA6-2586 | 1965:MA6-2586,bar / cocktail lounge,Restaurants & bars,high,1960 'Copper Lantern tavern',1964-1538-01 1965-1538-01
+E0243,4,1538,1538½,1964 1965,GENE BTY SHP,1964:MA6-7954 | 1965:MA6-7954,beauty salon,Personal services,high,trade/name keyword,1964-1538h-01 1965-1538h-01
+E0244,4,1538,1538,1987,BARRAGAN'S MEXICAN RESTAURANT,1987:250-4256,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1987-1538-01
+E0245,4,1539,1539,1964 1965 1968,SUNSET PRINTING,1964:MA5-3009 | 1965:MA5-3009 | 1968:625-3009,printing shop,"Media, printing & entertainment",high,trade/name keyword,1964-1539-01 1965-1539-01 1968-1539-01
+E0246,4,1540,1540,1956 1960 1964 1965 1968,Silver Henry atty | SILVER HENRY ATTY,1956:MI 7069 | 1960:MA 4-7069 | 1964:MA4-7069 | 1965:MA4-7069 | 1968:624-7069,attorney's office,Professional & business services,high,trade/name keyword,1956-1540-01 1960-1540-01 1964-1540-01 1965-1540-01 1968-1540-01
+E0247,4,1540,1540,1973,Silver Henry,1973:624-7069,attorney's office,Professional & business services,high,"1956-68 'Silver Henry atty', same phone",1973-1540-01
+E0248,4,1541,1541,1964 1965 1968,COOVER BEAUTY SALON,1964:628-2879 | 1965:628-2879 | 1968:628-2879,beauty salon,Personal services,high,trade/name keyword,1964-1541-01 1965-1541-01 1968-1541-01
+E0249,4,1541,1541,1973,Si Bon Beauty Salon,1973:628-2879,beauty salon,Personal services,high,trade/name keyword,1973-1541-01
+E0250,4,1541,1541,1987,ROY'S MEAT CO,1987:250-1816,meat / seafood market,Food stores,high,trade/name keyword,1987-1541-01
+E0251,4,1544,1544,1964 1965,BARRAGAN CAFE,1964:688-9721 | 1965:688-9721,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1544-01 1965-1544-01
+E0252,4,1544,1544,1968,SUNSET FLOOR CVRNG,1968:623-4770,carpet / floor covering,"Home furnishings, hardware & appliances",high,trade/name keyword,1968-1544-01
+E0253,4,1544,1544,1973,Ellis Beauty Supplies,1973:622-8207,beauty supply store,General & specialty retail,high,trade/name keyword,1973-1544-01
+E0254,4,1545,1545,1956 1960,B & G Plumbng Shop,1956:MU 6825 | 1960:MA 8-6825,plumbing contractor / shop,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1545-01 1960-1545-01
+E0255,4,1545,1545,1964 1965 1968 1973,B-G PLUMBING SHOP | B & G Plumbing Shop,1964:MA8-6825 | 1965:MA8-6825 | 1968:628-6825 | 1973:628-6825,plumbing contractor / shop,"Light industrial, trades & wholesale",high,trade/name keyword,1964-1545-01 1965-1545-01 1968-1545-01 1973-1545-01
+E0256,4,1546,1546,1956,Fenstermaker Don K State Farm Ins,1956:MA 6-7573,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1956-1546-01
+E0257,4,1546,1546,1956,State Farm Insurance Co,1956:MA 6-7573,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1956-1546-02
+E0258,4,1546,1546,1956,Turkmany Joe J State Farm Ins Co,1956:MA 6-7573,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1956-1546-03
+E0259,4,1546,1546,1960,State Farm Insurance Companies Los Angeles agencies,1960:MA 6-7573,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1960-1546-01
+E0260,4,1546,1546,1960,Turkmany Joe J State Farm Ins Companies,1960:MA 6-7573,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1960-1546-02
+E0261,4,1546,1546,1968,ACEBO L-RECORDS,1968:629-8006,record / music store,"Media, printing & entertainment",high,trade/name keyword,1968-1546-01
+E0262,4,1547,1547,1956,Hutchinson Chas B Hutchinson Rlty Co,1956:MU-6992,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1547-01
+E0263,4,1547,1547,1956 1964 1965 1968,Hutchinson Rlty Co | HUTCHINSON RLTY,1956:MU-6992 | 1964:MA6-0258 | 1965:MA6-0258 | 1968:626-0258,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1547-02 1964-1547-01 1965-1547-01 1968-1547-01
+E0264,4,1547,1547,1960,Hutchinson Chas B ins,1960:MA 6-0258,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1960-1547-01
+E0265,4,1547,1547,1960 1973,Hutchinson Realty Co,1960:MA 6-0258 | 1973:626-0258,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1960-1547-02 1973-1547-01
+E0266,4,1547,1547,1973,Hutchinson Chas B,1973:626-0258,real estate / insurance,"Finance, insurance & real estate",high,"listed with Hutchinson Realty Co, same phone",1973-1547-02
+E0267,4,1547,1547,1987,ELIZABETH'S BEAUTY SALON,1987:250-1077,beauty salon,Personal services,high,trade/name keyword,1987-1547-01
+E0268,4,1548,1548,1956 1960,Dreby Ernest E acct,1956:MU 2466 | 1956:MU 6987 | 1960:MA 8-6987,accountant,Professional & business services,high,trade/name keyword,1956-1548-01 1956-1548-02 1960-1548-02
+E0269,4,1548,1548,1960,Donut House The,1960:MA 9-0511,donut shop,Restaurants & bars,high,trade/name keyword,1960-1548-01
+E0270,4,1548,1548½,1960,Aloha Land Co,1960:MA 8-6697,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1960-1548h-01
+E0271,4,1548,1548,1968,MILLION DOLLAR BTY SALON NO 3,1968:625-8739,beauty salon,Personal services,high,trade/name keyword,1968-1548-01
+E0272,4,1548,1548,1968,MILLION DOLLAR SALON,1968:689-8417,beauty salon,Personal services,high,trade/name keyword,1968-1548-02
+E0273,4,1549,1549,1956,Barnard Moving & Storage Co,1956:MU 3962,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1549-01
+E0274,4,1549,1549,1956 1960,Barnard Van & Storage Co,1956:MU 3962 | 1960:MA 8-3962,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1549-02 1960-1549-01
+E0275,4,1549,1549,1956 1960,Bernard Van & Storage Co,1956:MU 3962 | 1960:MA 8-3962,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1549-03 1960-1549-02
+E0276,4,1549,1549,1964 1965 1968,LEES AUTMTC LAUNDRY,1964:MA4-5047 | 1965:MA4-5047 | 1968:624-5047,laundry / dry cleaner,Personal services,high,trade/name keyword,1964-1549-01 1965-1549-01 1968-1549-01
+E0277,4,1549,1549,1973 1987,Lee's Automatic Laundry & Dry Cleaners | LEE'S AUTOMATIC LAUNDRY & DRY CLEANERS,1973:624-5047 | 1987:250-2912,laundry / dry cleaner,Personal services,high,trade/name keyword,1973-1549-01 1987-1549-01
+E0278,4,1550,1550,1956,Paris Cleaners,1956:MU 6576,laundry / dry cleaner,Personal services,high,trade/name keyword,1956-1550-01
+E0279,4,1550,1550,1960,Hollywd Sunset Cleaners,1960:MA 8-4638,laundry / dry cleaner,Personal services,high,trade/name keyword,1960-1550-01
+E0280,4,1554,1554,1956,Ozzie's TV & Appliances,1956:MU 3028,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1554-01
+E0281,4,1554,1554,1960 1973 1987,Gerry's Dept Store | GERRY'S DEPT STORE,1960:MA 9-8065 | 1973:629-8065 | 1987:250-4821,department / variety / discount store,General & specialty retail,high,trade/name keyword,1960-1554-01 1973-1554-01 1987-1554-01
+E0282,4,1554,1554,1964 1965 1968,GERRYS DEPT STORE,1964:MA9-8065 | 1965:629-8065 | 1968:629-8065,department / variety / discount store,General & specialty retail,high,trade/name keyword,1964-1554-01 1965-1554-01 1968-1554-01
+E0283,4,1555,1555,1956 1960,Ben's Furn Store Used,1956:MU 4000 | 1960:MA 8-4000,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1555-01 1960-1555-01
+E0284,4,1555,1555,1956 1960,Ben's Used Furn Store,1956:MU 4000 | 1960:MA 8-4000,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1555-02 1960-1555-02
+E0285,4,1555,1555,1964 1965 1968,BENS USED FURNITURE,1964:626-6688 | 1965:626-6688 | 1968:626-6688,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1555-01 1965-1555-01 1968-1555-01
+E0286,4,1555,1555,1973,Baly Bros Wholesale,1973:680-0621,wholesale,"Light industrial, trades & wholesale",high,trade/name keyword,1973-1555-01
+E0287,4,1557,1557,1956 1960,Sam's Furn Used,1956:MA 5-2046 | 1960:MA 5-2046,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1557-01 1960-1557-01
+E0288,4,1557,1557,1956 1960,Sam's Used Furn Store,1956:MA 5-2046 | 1956:MU 6464 | 1960:MA 5-2046 | 1960:MA 8-6464,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1557-02 1956-1557-03 1960-1557-02 1960-1557-03
+E0289,4,1557,1557,1964 1965 1968,SAMS USED FURN,1964:MA8-6464 | 1964:628-1442 | 1965:MA8-6464 | 1965:628-1442 | 1968:628-6464,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1557-01 1964-1557-02 1965-1557-01 1965-1557-02 1968-1557-01
+E0290,4,1557,1557,1973,Sam's Used Furniture Store,1973:628-6464,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1973-1557-01
+E0291,4,1557,1557,1987,BARGAIN CENTER,1987:250-4419,department / variety / discount store,General & specialty retail,high,trade/name keyword,1987-1557-01
+E0292,4,1561,1561,1956 1960,Coover Beauty Salon,1956:MU 2879 | 1960:MA 8-2879,beauty salon,Personal services,high,trade/name keyword,1956-1561-01 1960-1561-01
+E0293,4,1561,1561,1987,ADMIRAL CHECK CASHING SERVICES INC,1987:481-0241,check cashing,"Finance, insurance & real estate",high,trade/name keyword,1987-1561-01
+E0294,4,1563,1563,1927,Safeway Stores,1927:MU 9684,grocery / market,Food stores,high,Safeway grocery chain,1927-1563-01
+E0295,4,1563,1563,1956 1960,Manufacturer's Shoe Mart,1956:MA 5-0886 | 1960:MA 5-0886,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1563-01 1960-1563-01
+E0296,4,1563,1563,1956 1960,Meyers Al Manufacturer's Shoe Mart,1956:MA 5-0886 | 1960:MA 5-0886,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1563-02 1960-1563-02
+E0297,4,1563,1563,1964 1965 1968 1973,MEYERS SHOE MART | Meyers' Shoe Mart,1964:688-8242 | 1965:688-8242 | 1968:688-8242 | 1973:688-8242,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1563-01 1965-1563-01 1968-1563-01 1973-1563-01
+E0298,4,1563,1563,1987,CROWN SHOES,1987:250-2508,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1987-1563-01
+E0299,4,1566,1566,1956 1960,Arias G B Sunset Realty Spec,1956:MA 5-1171 | 1960:MA 5-1171,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1566-01 1960-1566-01
+E0300,4,1566,1566,1956 1960,Samario Chas R Sunset Realty Spec,1956:MA 5-1171 | 1960:MA 5-1171,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1566-02 1960-1566-02
+E0301,4,1566,1566,1956 1960 1973,Sunset Realty Spec,1956:MA 5-1171 | 1960:MA 5-1171 | 1973:625-1171,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1566-03 1960-1566-03 1973-1566-01
+E0302,4,1566,1566,1964 1965 1968,SUNSET REALTY,1964:MA5-1171 | 1965:MA5-1171 | 1968:625-1171,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1964-1566-01 1965-1566-01 1968-1566-01
+E0303,4,1568,1568,1956 1960,Testa Fillmore phy & surg,1956:MU 7024 | 1960:MA 8-7024,physician's office,Health & medical,high,trade/name keyword,1956-1568-01 1960-1568-01
+E0304,4,1568,1568,1964 1965 1968 1973,TESTA FILLMORE MD | Testa Fillmore MD,1964:MA8-7024 | 1965:MA8-7024 | 1968:628-7024 | 1973:628-7024,physician's office,Health & medical,high,trade/name keyword,1964-1568-01 1965-1568-01 1968-1568-01 1973-1568-01
+E0305,4,1568,1568,1987,SUNSET-ECHO PARK MEDICAL CLINIC,1987:482-9638,medical clinic,Health & medical,high,trade/name keyword,1987-1568-01
+E0306,4,1569,1569½,1956,Elysian Lodge No 418 F&AM,1956:MA 9-8530,Masonic lodge,Institutional & civic,high,trade/name keyword,1956-1569h-01
+E0307,4,1569,1569,1960,American Oil Portraits,1960:MA 9-8215,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1960-1569-01
+E0308,4,1569,1569,1964,ECHO PARK INVESTMENT,1964:626-4548,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1964-1569-01
+E0309,4,1571,1571,1927 1956 1960 1964 1965 1968 1973 1987,Sunset Pharmacy | SUNSET PHARMACY,1927:MU 2970 | 1956:MU 1455 | 1956:MU 2970 | 1960:MA 8-6187 | 1964:628-6187 | 1965:628-6187 | 1968:628-6187 | 1973:628-6187 | 1987:250-4405,pharmacy / drugstore,Health & medical,high,trade/name keyword,1927-1571-01 1956-1571-01 1956-1571-02 1960-1571-01 1964-1571-01 1965-1571-02 1968-1571-02 1973-1571-01 1987-1571-01
+E0310,4,1571,1571,1965,SWADE S-DNTL LAB,1965:626-6980,dental laboratory,Health & medical,high,trade/name keyword,1965-1571-01
+E0311,4,1571,1571,1968,LE VINE S N DMD,1968:626-6980,dentist's office,Health & medical,high,trade/name keyword,1968-1571-01
+E0312,4,1572,1572,1956 1960,Bank of Amer Natl Trust & Saving Assn Also Bank of Amer branches Sunset-Echo Prk Branch,1956:MA 6-7244 | 1960:MA 6-7244,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1956-1572-01 1960-1572-01
+E0313,4,1600,1600,1906,Connely & Smith meats,,meat / seafood market,Food stores,high,trade/name keyword,1906-1600-01
+E0314,4,1600,1600,1906,Billinger A J gro,,grocery / market,Food stores,high,trade/name keyword,1906-1600-02
+E0315,4,1600,1600,1956 1960 1964 1968 1973,Sunpark Liquor Store | SUNPARK LIQUOR STORE,1956:MA 9-0414 | 1960:MA 9-0414 | 1964:689-8308 | 1968:623-6655 | 1973:623-6655,liquor store,Food stores,high,trade/name keyword,1956-1600-01 1960-1600-01 1964-1600-01 1968-1600-01 1973-1600-01
+E0316,4,1600,1600,1965,SUN PARK LIQUOR STR,1965:689-8308,liquor store,Food stores,high,trade/name keyword,1965-1600-01
+E0317,4,1600,1600,1987,FASHION CORNER OF ECHO PARK,1987:482-1723,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1987-1600-01
+E0318,4,1601,1601,1906,Williamson Fred gro,,grocery / market,Food stores,high,trade/name keyword,1906-1601-01
+E0319,4,1601,1601,1956,Pioneer Super Mkt,1956:MA 6-7186,grocery / market,Food stores,high,trade/name keyword,1956-1601-01
+E0320,4,1601,1601,1960,Pioneer Mkt,1960:MA 6-7186,grocery / market,Food stores,high,trade/name keyword,1960-1601-01
+E0321,4,1601,1601,1968 1973,PIONEER FOODS INC | Pioneer Foods Inc,1968:626-7186 | 1973:626-7186,grocery / market,Food stores,high,trade/name keyword,1968-1601-01 1973-1601-01
+E0322,4,1601,1601,1987,PIONEER SUPERMARKETS,1987:250-3783,grocery / market,Food stores,high,trade/name keyword,1987-1601-01
+E0323,4,1602,1602,1956 1960,Henry's Wearing Apparel,1956:MU 2061 | 1960:MA 9-9880,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1602-01 1960-1602-01
+E0324,4,1602,1602,1964 1965 1968,HENRYS MENS WEAR,1964:689-9577 | 1965:689-9577 | 1968:689-9577,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1602-01 1965-1602-01 1968-1602-01
+E0325,4,1602,1602,1973,Henry's Men's Wear,1973:485-8555 | 1973:689-9577,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1602-01 1973-1602-02
+E0326,4,1604,1604½,1956 1960,Green Elec Co Norman,1956:MU 7945 | 1960:MA 8-7945,electrical contractor / manufacturer,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1604h-01 1960-1604h-01
+E0327,4,1604,1604½,1956 1960,Green Norman Elec Co,1956:MU 7945 | 1960:MA 8-7945,electrical contractor / manufacturer,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1604h-02 1960-1604h-02
+E0328,4,1604,1604½,1956 1960,Poulos Arthur I Dr,1956:MU 7888 | 1960:MA 8-7888,physician's office,Health & medical,high,trade/name keyword,1956-1604h-03 1960-1604h-03
+E0329,4,1604,1604½,1956 1960,Thrash Electric Co,1956:MU 7945 | 1960:MA 8-7945,electrical contractor / manufacturer,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1604h-04 1960-1604h-04
+E0330,4,1604,1604,1964 1965,LENNYES SPORTSWEAR,1964:626-0064 | 1965:626-0064,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1604-01 1965-1604-01
+E0331,4,1604,1604,1973,Gloria Hand Knits,1973:622-0759,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1604-01
+E0332,4,1605,1605,1956 1960,Deutsch L dntst,1956:MU 3592 | 1960:MA 8-3592,dentist's office,Health & medical,high,trade/name keyword,1956-1605-01 1960-1605-01
+E0333,4,1605,1605,1956 1960,Gise E C investmts,1956:MA 6-4086 | 1960:MA 6-4086,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1605-02 1960-1605-02
+E0334,4,1605,1605,1956 1960 1964 1965 1968 1973,Brandes Leo MD | BRANDES LEO MD,1956:MU-4794 | 1960:MA 8-4794 | 1964:628-4794 | 1965:628-4794 | 1968:628-4794 | 1973:628-4794,physician's office,Health & medical,high,trade/name keyword,1956-1605-03 1960-1605-03 1964-1605-03 1965-1605-03 1968-1605-02 1973-1605-01
+E0335,4,1605,1605,1964 1965,DEUTSCH L,1964:MA8-3592 | 1965:MA8-3592,dentist's office,Health & medical,high,"1956-60 'Deutsch L dntst', same room & phone",1964-1605-01 1965-1605-01
+E0336,4,1605,1605,1964 1965 1968,GISE E C,1964:MA6-4086 | 1965:MA6-4086 | 1968:626-4086,investments office,"Finance, insurance & real estate",high,"1956-60 'Gise E C investmts', same room & phone",1964-1605-02 1965-1605-02 1968-1605-01
+E0337,4,1605,1605,1973,Ramos Adalberto J DDS,1973:625-2511,dentist's office,Health & medical,high,trade/name keyword,1973-1605-02
+E0338,4,1605,1605,1973,Winston Schaefer Realty Co,1973:626-4086,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1973-1605-03
+E0339,4,1606,1606½,1956,Kelly's Barber Shop,1956:MU 1018,barber shop,Personal services,high,trade/name keyword,1956-1606h-01
+E0340,4,1606,1606,1956 1960,Gladys' Pet Shop,1956:MU 2896 | 1960:MA 8-2896,pet / tropical fish shop,General & specialty retail,high,trade/name keyword,1956-1606-01 1960-1606-01
+E0341,4,1606,1606½,1960,Hollyway Barber Shop,1960:MA 8-1018,barber shop,Personal services,high,trade/name keyword,1960-1606h-01
+E0342,4,1606,1606,1964 1965,BUNNYS MUSIC VOX,1964:624-4433 | 1965:624-4433,record / music store,"Media, printing & entertainment",high,trade/name keyword,1964-1606-01 1965-1606-01
+E0343,4,1606,1606,1968,ECHO PRK PAWNBROKERS,1968:623-6669,pawnshop,General & specialty retail,high,trade/name keyword,1968-1606-01
+E0344,4,1606,1606,1987,LA ECONOMICA FAMILY STORE,1987:250-5171,department / variety / discount store,General & specialty retail,high,trade/name keyword,1987-1606-01
+E0345,4,1607,1607,1927,Willard Groc Co,1927:MU 5439,grocery / market,Food stores,high,trade/name keyword,1927-1607-01
+E0346,4,1608,1608½,1964 1965,ORANGE JULIUS,1964:622-7075 | 1965:622-7075,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1608h-01 1965-1608h-01
+E0347,4,1608,1608,1964 1965 1968,STARDUST CLEANERS,1964:628-6806 | 1965:628-6806 | 1968:628-6806,laundry / dry cleaner,Personal services,high,trade/name keyword,1964-1608-01 1965-1608-01 1968-1608-01
+E0348,4,1608,1608½,1968,ORANGE JULIUS-AMER,1968:622-7075,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1968-1608h-01
+E0349,4,1608,1608,1973,A A One Party & Gift Shop,1973:622-1549,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1973-1608-01
+E0350,4,1608,1608½,1987,SUNSET SNACK BAR,1987:250-1628,snack bar,Restaurants & bars,high,trade/name keyword,1987-1608h-01
+E0351,4,1610,1610,1956 1960,Lords Jewlrs,1956:MI 4583 | 1960:MA 4-4583,jewelry store,General & specialty retail,high,trade/name keyword,1956-1610-01 1960-1610-01
+E0352,4,1610,1610,1964 1965 1968 1973 1987,LORDS JEWELERS | Lords Jewelers,1964:MA4-4583 | 1965:MA4-4583 | 1968:624-4583 | 1973:624-4583 | 1987:250-2891,jewelry store,General & specialty retail,high,trade/name keyword,1964-1610-01 1965-1610-01 1968-1610-01 1973-1610-01 1987-1610-01
+E0353,4,1611,1611,1956,Factory Outlet,1956:MI 1649,department / variety / discount store,General & specialty retail,high,trade/name keyword,1956-1611-01
+E0354,4,1612,1612,1956 1960,Lachs Harold D Dr optmtrst,1956:MU 5638 | 1960:MA 8-5638,optometrist's office,Health & medical,high,trade/name keyword,1956-1612-01 1960-1612-01
+E0355,4,1612,1612,1964 1965 1968,LACHS H D,1964:MA8-7136 | 1965:MA8-7136 | 1968:628-7136,optometrist's office,Health & medical,high,"1956-60 'Lachs Harold D Dr optmtrst', same phone",1964-1612-01 1965-1612-01 1968-1612-01
+E0356,4,1612,1612,1973,Lachs Harold D Dr,1973:628-7136,optometrist's office,Health & medical,high,same phone as earlier optometrist listing,1973-1612-01
+E0357,4,1612,1612,1987,BARRETO FERNANDO DR,1987:250-3767,physician's office,Health & medical,high,trade/name keyword,1987-1612-01
+E0358,4,1613,1613,1956 1960,Lee's Automatic Laundry & Dry Cleaners,1956:MI 5047 | 1960:MA 4-5047,laundry / dry cleaner,Personal services,high,trade/name keyword,1956-1613-01 1960-1613-01
+E0359,4,1613,1613,1965 1968,MDX PURITY PHRMCIES,1965:626-8314 | 1968:626-8314,pharmacy / drugstore,Health & medical,high,trade/name keyword,1965-1613-01 1968-1613-01
+E0360,4,1613,1613,1973,MDX Purity Pharmacies,1973:626-8314,pharmacy / drugstore,Health & medical,high,trade/name keyword,1973-1613-01
+E0361,4,1616,1616,1956 1960 1964 1965 1968 1973,Hollyway Cafe | HOLLYWAY CAFE,1956:MA 9-8727 | 1960:MA 9-1047 | 1964:MA9-1047 | 1965:MA9-1047 | 1968:629-1047 | 1973:629-1047,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1956-1616-01 1960-1616-01 1964-1616-01 1965-1616-01 1968-1616-01 1973-1616-01
+E0362,4,1616,1616,1987,HOLLYWAY LOUNGE,1987:250-5992,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1987-1616-01
+E0363,4,1618,1618,1956,Finer Jack Finer's Store for Men & Women,1956:MA 9-1015,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1618-01
+E0364,4,1618,1618,1956 1960 1973 1987,Finer's Store for Men & Women | Finer's Store For Men & Women | FINER'S STORE FOR MEN & WOMEN,1956:MA 9-1015 | 1960:MA 9-1015 | 1973:629-1015 | 1987:250-4652,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1618-02 1960-1618-01 1973-1618-01 1987-1618-01
+E0365,4,1618,1618,1964 1965 1968,FINERS STORE,1964:629-1015 | 1965:629-1015 | 1968:629-1015,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1618-01 1965-1618-01 1968-1618-01
+E0366,4,1619,1619,1956,Furst Paint & Hardware Co,1956:MU 5945,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1619-01
+E0367,4,1619,1619,1960,Furst Bolt & Screw Co,1960:MA 8-5945,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1619-01
+E0368,4,1619,1619,1960 1964 1965 1968,Furst Hdwe & Paint Co | FURST HDWE-PAINT,1960:MA 8-5945 | 1964:MA8-5945 | 1965:MA8-5945 | 1968:628-5945,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1619-02 1964-1619-01 1965-1619-01 1968-1619-01
+E0369,4,1619,1619,1973,Furst Hardware & Paint Co,1973:628-5945,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1973-1619-01
+E0370,4,1620,1620½,1956 1960,Bohlen's Logan St Carpenter Shop,1956:MU 5525 | 1960:MA 8-5525,carpentry shop,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1620h-01 1960-1620h-01
+E0371,4,1620,1620½,1964 1965 1968,BOHLENS LOGAN,1964:MA8-5525 | 1965:MA8-5525 | 1968:628-5525,carpentry shop,"Light industrial, trades & wholesale",high,truncated 'Bohlen's Logan St Carpenter Shop',1964-1620h-01 1965-1620h-01 1968-1620h-01
+E0372,4,1620,1620½,1973,Bohlen's Logan Street Carpenter Shop,1973:628-5525,carpentry shop,"Light industrial, trades & wholesale",high,trade/name keyword,1973-1620h-01
+E0373,4,1621,1621,1956 1960,Jack's Cafe,1956:MA 5-0241 | 1960:MA 5-0241,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1956-1621-02 1960-1621-01
+E0374,4,1621,1621½,1956 1960,Berryhill Glenn D dntst,1956:MU-4983 | 1960:MA 8-4983,dentist's office,Health & medical,high,trade/name keyword,1956-1621h-01 1960-1621h-02
+E0375,4,1621,1621,1964,JACKS CAFE,1964:688-8066,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1621-01
+E0376,4,1621,1621½,1964,BERRYHILL GLENN,1964:MA8-4983,dentist's office,Health & medical,high,"1956-60 'Berryhill Glenn D dntst', same phone",1964-1621h-02
+E0377,4,1621,1621,1968,WESLEY C J-MD,1968:626-3470,physician's office,Health & medical,high,trade/name keyword,1968-1621-01
+E0378,4,1624,1624,1956,Citizens National Trust & Savings Bank of Los Angeles branches city & county Echo Park-Sunset Bl Br,1956:MI 4955,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1956-1624-01
+E0379,4,1624,1624,1960,Citizens National Bank Echo Park-Sunset Blvd Br,1960:MA 4-4955,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1960-1624-01
+E0380,4,1624,1624,1964 1965 1968,CROCKER-CITIZENS BNK,1964:624-4955 | 1965:624-4955 | 1968:624-4955,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1964-1624-01 1965-1624-01 1968-1624-01
+E0381,4,1625,1625,1956 1960,Neely Loyd E Dr DC,1956:MU 5828 | 1960:MA 8-5828,chiropractor's office,Health & medical,high,trade/name keyword,1956-1625-01 1960-1625-01
+E0382,4,1625,1625,1968,BOBS BARBER SHOP,1968:688-8960,barber shop,Personal services,high,trade/name keyword,1968-1625-01
+E0383,4,1625,1625,1973,Bob's Barber Shop,1973:688-8960,barber shop,Personal services,high,trade/name keyword,1973-1625-01
+E0384,4,1627,1627,1956,Betty's Quality Ice Cream,1956:MA 5-0934,ice cream / candy shop,Food stores,high,trade/name keyword,1956-1627-01
+E0385,4,1627,1627,1960,Ward's Quality Ice Cream,1960:MA 5-0934,ice cream / candy shop,Food stores,high,trade/name keyword,1960-1627-01
+E0386,4,1627,1627,1964 1965,WARDS ICE CREAM,1964:688-8262 | 1965:688-8262,ice cream / candy shop,Food stores,high,trade/name keyword,1964-1627-01 1965-1627-01
+E0387,4,1627,1627,1973,Pacific Finance,1973:489-4720,finance / loan company,"Finance, insurance & real estate",high,trade/name keyword,1973-1627-01
+E0388,4,1630,1630,1956 1960,Gus's Bakery,1956:VA-5232 | 1960:MA 2-5232,bakery,Food stores,high,trade/name keyword,1956-1630-01 1960-1630-01
+E0389,4,1630,1630,1964 1965,GUSS BAKERY,1964:MA2-5232 | 1965:MA2-5232,bakery,Food stores,high,trade/name keyword,1964-1630-01 1965-1630-01
+E0390,4,1630,1630,1968,CAESARS BAKERY SHOP,1968:622-5232,bakery,Food stores,high,trade/name keyword,1968-1630-01
+E0391,4,1630,1630,1973 1987,Celaya Bakery | CELAYA BAKERY,1973:622-5232 | 1987:250-2472,bakery,Food stores,high,trade/name keyword,1973-1630-01 1987-1630-01
+E0392,4,1631,1631,1927,Apex Pharmacy,1927:MU 1879,pharmacy / drugstore,Health & medical,high,trade/name keyword,1927-1631-01
+E0393,4,1631,1631,1956 1960,Horn's Childrens Shop,1956:MU 8539 | 1960:MA 8-8539,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1631-01 1960-1631-01
+E0394,4,1631,1631,1964 1965,HONG KONG CHEF,1964:MA5-8717 | 1965:MA5-8717,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1631-01 1965-1631-01
+E0395,4,1631,1631,1968,TING S RESTAURANT,1968:689-8899,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1968-1631-01
+E0396,4,1631,1631,1973,Ting Sam Restaurant,1973:689-8899,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-1631-01
+E0397,4,1632,1632,1956 1960,Mode O'Day Frock Shop,1956:MA 9-1934 | 1960:MA 9-1934,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1632-01 1960-1632-01
+E0398,4,1632,1632,1956 1960,Mode O'Day Shops L A shops,1956:MA 9-1934 | 1960:MA 9-1934,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1632-02 1960-1632-02
+E0399,4,1632,1632,1964 1965 1968,MODE O DAY,1964:MA9-1934 | 1965:MA9-1934 | 1968:629-1934,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1632-01 1965-1632-01 1968-1632-01
+E0400,4,1632,1632,1973,Libreria Mexico,1973:629-8295,book / stationery store,General & specialty retail,high,trade/name keyword,1973-1632-01
+E0401,4,1632,1632,1987,LIBRERIAS MEXICO DE CALIFORNIA INC,1987:250-4835,book / stationery store,General & specialty retail,high,trade/name keyword,1987-1632-01
+E0402,4,1634,1634,1956 1960,Behrens Francis Sunset Camera Exchange,1956:MU 8789 | 1960:MA 8-8789,camera store / repair,General & specialty retail,high,trade/name keyword,1956-1634-01 1960-1634-01
+E0403,4,1634,1634,1956 1960 1964 1965 1973 1987,Sunset Camera Exch | SUNSET CAMERA EXCH | Sunset Camera Exch Inc | SUNSET CAMERA EXCH INC,1956:MU 8789 | 1960:MA 8-8789 | 1964:MA8-8789 | 1965:MA8-8789 | 1973:628-8789 | 1987:250-4574,camera store / repair,General & specialty retail,high,trade/name keyword,1956-1634-02 1960-1634-02 1964-1634-01 1965-1634-01 1973-1634-01 1987-1634-01
+E0404,4,1643,1643,1968,SUNSET CAMERA,1968:628-8789,camera store / repair,General & specialty retail,high,trade/name keyword,1968-1643-01
+E0405,4,1700,1700,1927 1956 1960 1964 1965 1968 1973,Circle Drug Co | Circle Drug Inc | CIRCLE DRUG INC | CIRCLE DRUG | Circle Drug,1927:DR 3105 | 1956:DU 7-3811 | 1960:DU 7-3811 | 1960:DU 7-8692 | 1964:387-7386 | 1965:387-7386 | 1968:387-7386 | 1973:484-0355,pharmacy / drugstore,Health & medical,high,trade/name keyword,1927-1700-01 1956-1700-01 1960-1700-01 1960-1700-02 1964-1700-01 1965-1700-01 1968-1700-01 1973-1700-01
+E0406,4,1700,1700,1987,URGENT CARE MEDICAL PHARMACY,1987:413-5836,pharmacy / drugstore,Health & medical,high,trade/name keyword,1987-1700-01
+E0407,4,1700,1700,1987,URGENT CARE MEDICAL CLINIC,1987:484-1281,medical clinic,Health & medical,high,trade/name keyword,1987-1700-02
+E0408,4,1701,1701,1956,Le Moyne Paint Co Inc,1956:DU 3-2306 | 1956:DU 9-9170,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1701-03 1956-1701-04
+E0409,4,1701,1701,1956 1960,Gordon Motor Rebuilding | Gordon's Motor Rebuilding,1956:DU 7-8925 | 1960:DU 7-9228,auto repair,Auto sales & service,high,trade/name keyword,1956-1701-01 1956-1701-02 1960-1701-01
+E0410,4,1701,1701,1960,Raff's,1960:DU 3-2306 | 1960:DU 9-9170,hardware / paint store,"Home furnishings, hardware & appliances",high,phones match Le Moyne Paint (1956) and Raff's Paint-Hdw (1964),1960-1701-02 1960-1701-03
+E0411,4,1701,1701,1964 1965 1968,GORDON MOTOR REBLDG,1964:386-9228 | 1965:386-9228 | 1968:386-9228,auto repair,Auto sales & service,high,trade/name keyword,1964-1701-01 1965-1701-01 1968-1701-01
+E0412,4,1701,1701,1964 1965 1968,RAFFS PAINT-HDWARE,1964:DU3-2306 | 1965:383-2306 | 1968:383-2306,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1701-02 1965-1701-02 1968-1701-02
+E0413,4,1701,1701,1964 1965 1968,RAFFS PAINT-HDW,1964:DU9-9170 | 1965:389-9170 | 1968:389-9170,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1701-03 1965-1701-03 1968-1701-03
+E0414,4,1701,1701,1973,Raff's Paint & Hardware,1973:383-2306 | 1973:389-9170,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1973-1701-01 1973-1701-02
+E0415,4,1702,1702,1956 1960,Emilie's greeting cards,1956:DU 7-5436 | 1960:DU 7-5436,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1956-1702-01 1960-1702-01
+E0416,4,1702,1702,1964,EMILIES,1964:DU7-5436,gift / greeting card shop,General & specialty retail,high,"1956-60 'Emilie's greeting cards', 1965 gift shop",1964-1702-01
+E0417,4,1702,1702,1965,EMILIES GIFT SHOP,1965:387-5436,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1965-1702-01
+E0418,4,1702,1702,1973,Joyeria Mena,1973:484-9630,jewelry store,General & specialty retail,high,trade/name keyword,1973-1702-01
+E0419,4,1702,1702,1973,Mena Toys,1973:484-9630,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1973-1702-02
+E0420,4,1702,1702,1987,MILLION DOLLAR DRUG CO,1987:483-3962,pharmacy / drugstore,Health & medical,high,trade/name keyword,1987-1702-01
+E0421,4,1703,1703,1956,So Calif Gas Co public ofcs,1956:MI 0141,gas utility customer office,Professional & business services,high,trade/name keyword,1956-1703-01
+E0422,4,1703,1703,1960,So Calif Gas Co,1960:MA 5-3331,gas utility customer office,Professional & business services,high,trade/name keyword,1960-1703-01
+E0423,4,1704,1704,1956 1960,Echo Park Medical Clinic,1956:DU 7-1153 | 1960:DU 7-1153,medical clinic,Health & medical,high,trade/name keyword,1956-1704-01 1960-1704-01
+E0424,4,1704,1704,1956 1960,Kagan Harvey D Dr Echo Park Medical Clinic,1956:DU 7-1153 | 1960:DU 7-1153,medical clinic,Health & medical,high,trade/name keyword,1956-1704-02 1960-1704-02
+E0425,4,1704,1704,1956 1960,Stein J M Dr Echo Park Medical Clinic,1956:DU 7-1153 | 1960:DU 7-1153,medical clinic,Health & medical,high,trade/name keyword,1956-1704-03 1960-1704-03
+E0426,4,1704,1704,1964 1965,ECHO PK MEDICAL,1964:DU7-1153 | 1965:387-1153,medical clinic,Health & medical,high,trade/name keyword,1964-1704-01 1965-1704-01
+E0427,4,1706,1706,1973,Barber Russell,1973:484-9797,barber shop,Personal services,high,trade/name keyword,1973-1706-05
+E0428,4,1706,1706½,1973,R & M Income Tax Service,1973:483-4944,tax preparation,Professional & business services,high,trade/name keyword,1973-1706h-01
+E0429,4,1706,1706¼,1987,TOP DISCOUNT,1987:484-2700,department / variety / discount store,General & specialty retail,high,trade/name keyword,1987-1706q-01
+E0430,4,1707,1707,1956 1960,Associated Furn Co,1956:DU 8-2357 | 1960:DU 8-2357,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1707-01 1960-1707-01
+E0431,4,1707,1707,1964 1965 1968,ASSOC FURN CO,1964:DU8-2357 | 1965:388-2357 | 1968:388-2357,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1707-01 1965-1707-01 1968-1707-01
+E0432,4,1707,1707,1973,Big M Stores,1973:386-4451,department / variety / discount store,General & specialty retail,high,trade/name keyword,1973-1707-01
+E0433,4,1707,1707,1987,PAYLESS SHOE SOURCE,1987:413-0491,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1987-1707-01
+E0434,4,1708,1708,1956 1960,Hansen Carl A watch reprng,1956:DU 3-4592 | 1960:DU 3-4592,watch repair,Personal services,high,trade/name keyword,1956-1708-01 1960-1708-01
+E0435,4,1708,1708,1968,CHIZZINIS FASHIONS,1968:384-0993,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1968-1708-01
+E0436,4,1708,1708,1973,Fashions Plaza,1973:484-9212,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1708-01
+E0437,4,1708,1708,1987,RENE STORE,1987:483-0281,department / variety / discount store,General & specialty retail,high,trade/name keyword,1987-1708-01
+E0438,4,1710,1710,1956,Bernard's Fabrics,1956:DU 3-9515,fabric / yardage store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1710-01
+E0439,4,1710,1710,1960,Onyx Beauty Salon,1960:DU 3-0591,beauty salon,Personal services,high,trade/name keyword,1960-1710-01
+E0440,4,1712,1712,1956,Jeanette's Children's Wear & Toys,1956:DU 8-9821,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1712-01
+E0441,4,1712,1712½,1956,Department of Water & Power L A City Metropolitan Br Ofcs Sunset-Glendale,1956:MI 4211,LA Dept of Water & Power branch office,Institutional & civic,high,trade/name keyword,1956-1712h-01
+E0442,4,1712,1712½,1960,Department of Water & Power L A City Sunset-Glendale,1960:MA 4-4211,LA Dept of Water & Power branch office,Institutional & civic,high,trade/name keyword,1960-1712h-01
+E0443,4,1712,1712,1964 1965,HOUSE OF BARGAINS,1964:DU3-6892 | 1965:383-6892,department / variety / discount store,General & specialty retail,high,trade/name keyword,1964-1712-01 1965-1712-01
+E0444,4,1712,1712½,1968,INCAS-COFFEE SHOP,1968:386-4868,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1968-1712h-01
+E0445,4,1712,1712 1712½,1973 1987,Madrid Restaurant | MADRID RESTAURANT,1973:483-7757 | 1987:413-9703 | 1987:483-7757 | 1973:483-9328,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-1712-01 1987-1712-01 1987-1712-02 1973-1712h-01
+E0446,4,1714,1714,1956 1960,Charlotte Shop The apprl,1956:DU 7-5434 | 1960:DU 7-5434,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1714-01 1960-1714-01
+E0447,4,1714,1714,1956 1960,Wulfe Milton Charlotte Shop The apprl,1956:DU 7-5434 | 1960:DU 7-5434,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1714-02 1960-1714-02
+E0448,4,1714,1714,1973,Valdes Yardage,1973:484-9904,fabric / yardage store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1714-01
+E0449,4,1714,1714,1987,FASHION FIVE II,1987:413-7740,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1987-1714-01
+E0450,4,1715,1715,1956 1960,Hazel Dell's Flowers & Gifts,1956:DU 4-1157 | 1960:DU 4-1157,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1956-1715-02 1960-1715-02
+E0451,4,1715,1715,1956 1960 1973,Dell's Hazel Flowers & Gifts,1956:DU 4-1157 | 1960:DU 4-1157 | 1973:384-1157,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1956-1715-01 1960-1715-01 1973-1715-01
+E0452,4,1715,1715,1964 1965 1968,DELLS HAZEL FLOWERS,1964:DU4-1157 | 1965:384-1157 | 1968:384-1157,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1964-1715-01 1965-1715-01 1968-1715-01
+E0453,4,1716,1716,1965 1968,KARLS SHOE STORES,1965:386-0658 | 1968:386-0658,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1965-1716-01 1968-1716-01
+E0454,4,1716,1716,1973,Karl's Shoe Stores Ltd,1973:483-9299,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1716-01
+E0455,4,1717,1717,1956 1960,Southland Auto Supply See Honest Abe Auto Supply Inc,1956:DU 8-2343 | 1960:DU 8-6878,auto parts store,Auto sales & service,high,trade/name keyword,1956-1717-02 1960-1717-02
+E0456,4,1717,1717,1956 1960 1973,Honest Abe Auto Supply Inc,1956:DU 8-2343 | 1960:DU 8-6878 | 1973:388-6878,auto parts store,Auto sales & service,high,trade/name keyword,1956-1717-01 1960-1717-01 1973-1717-01
+E0457,4,1717,1717,1964 1965 1968,HONEST ABE AUTO,1964:DU8-6878 | 1965:388-6878 | 1968:388-6878,auto parts store,Auto sales & service,high,trade/name keyword,1964-1717-01 1965-1717-01 1968-1717-01
+E0458,4,1720,1720,1956,Owl Drug Co The Sunset & Lemoyne Store,1956:DU 4-8337,pharmacy / drugstore,Health & medical,high,trade/name keyword,1956-1720-01
+E0459,4,1720,1720,1960,Owl-Rexall Drug Co The Owl Franchise Dlr Sunset & Lemoyne,1960:DU 4-2529,pharmacy / drugstore,Health & medical,high,trade/name keyword,1960-1720-01
+E0460,4,1720,1720,1964 1965 1968 1973,OWL-REXALL DRUG | Owl-Rexall Drug Co The,1964:DU4-2529 | 1965:384-2529 | 1968:384-2529 | 1973:484-9000,pharmacy / drugstore,Health & medical,high,trade/name keyword,1964-1720-01 1965-1720-01 1968-1720-01 1973-1720-01
+E0461,4,1720,1720,1987,HONEST ABE AUTO SUPPLY INC,1987:413-5188,auto parts store,Auto sales & service,high,trade/name keyword,1987-1720-01
+E0462,4,1721,1721,1964 1965,ZUKS SHOE STORE,1964:388-0134 | 1965:388-0134,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1721-01 1965-1721-01
+E0463,4,1722,1722,1956 1960,Kirby's Shoe Stores,1956:DU 2-4239 | 1960:DU 2-4239,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1722-01 1960-1722-01
+E0464,4,1722,1722,1964 1965,KIRBYS SHOE STORES,1964:DU2-4239 | 1965:382-4239,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1722-01 1965-1722-01
+E0465,4,1722,1722,1973,Kirby's Shoe Store,1973:483-9415,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1722-01
+E0466,4,1722,1722,1987,PATRINI SHOES,1987:413-1344,shoe store,"Apparel, shoes & fabric",high,trade/name keyword,1987-1722-01
+E0467,4,1723,1723,1927,Lindsay R T Dr,1927:DR 3227,physician's office,Health & medical,high,trade/name keyword,1927-1723-01
+E0468,4,1723,1723,1956,Helen's Dressmaking & Alterations,1956:DU 8-3954,dressmaker / alterations,Personal services,high,trade/name keyword,1956-1723-01
+E0469,4,1723,1723,1965,MAIMANS GIANT STORE,1965:386-0884,department / variety / discount store,General & specialty retail,high,trade/name keyword,1965-1723-01
+E0470,4,1724,1724,1956,Woolworth F W Co-5-10 & 15c Stores,1956:DU 3-9419,department / variety / discount store,General & specialty retail,high,trade/name keyword,1956-1724-01
+E0471,4,1724,1724,1960,Woolworth F W Co variety strs,1960:DU 3-9419,department / variety / discount store,General & specialty retail,high,trade/name keyword,1960-1724-01
+E0472,4,1724,1724,1964 1965 1968 1973 1987,WOOLWORTH F W CO | Woolworth F W Co,1964:DU3-9419 | 1965:383-9419 | 1968:383-9419 | 1973:484-8933 | 1987:484-1388,department / variety / discount store,General & specialty retail,high,trade/name keyword,1964-1724-01 1965-1724-01 1968-1724-01 1973-1724-01 1987-1724-01
+E0473,4,1725,1725,1956,Ruccione Guido F phy&sur,1956:DU 2-3438,physician's office,Health & medical,high,trade/name keyword,1956-1725-01
+E0474,4,1725,1725,1964,GIANT DOLLAR STORE,1964:386-0884,department / variety / discount store,General & specialty retail,high,trade/name keyword,1964-1725-01
+E0475,4,1727,1727,1956 1960 1964 1965 1968,Parkside Journal | PARKSIDE JOURNAL,1956:DU 3-6760 | 1956:DU 8-3255 | 1960:DU 3-6760 | 1960:DU 8-3255 | 1964:DU3-6760 | 1965:383-6760 | 1968:383-6760,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1956-1727-01 1956-1727-02 1960-1727-02 1960-1727-03 1964-1727-02 1965-1727-02 1968-1727-02
+E0476,4,1727,1727,1960 1964 1965 1968,Northwest Leader | NORTHWEST LEADER,1960:DU 8-3255 | 1964:DU8-3255 | 1965:388-3255 | 1968:388-3255,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1960-1727-01 1964-1727-01 1965-1727-01 1968-1727-01
+E0477,4,1727,1727,1973,Sunset Wig Center,1973:382-0277,beauty salon,Personal services,high,trade/name keyword,1973-1727-01
+E0478,4,1731,1731,1960,Bunny's Music Box records,1960:DU 8-8460,record / music store,"Media, printing & entertainment",high,trade/name keyword,1960-1731-01
+E0479,4,1731,1731,1964 1965 1968,HORNS CHILDRENS SHOP,1964:DU3-8480 | 1965:383-8480 | 1968:383-8480,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1731-01 1965-1731-01 1968-1731-01
+E0480,4,1731,1731,1973,Pac Record Shop,1973:389-9513,record / music store,"Media, printing & entertainment",high,trade/name keyword,1973-1731-01
+E0481,4,1800,1800,1956,Kory's Mkts Inc Mkt No 12,1956:DU 3-4809,grocery / market,Food stores,high,trade/name keyword,1956-1800-01
+E0482,4,1800,1800,1956,Kory's Mkts Inc Market No 12 Meat Dept,1956:DU 9-2456,meat / seafood market,Food stores,high,trade/name keyword,1956-1800-02
+E0483,4,1800,1800,1956,Van de Kamp's Holland Dutch Bakers Inc Bon Ton Mkt,1956:DU 9-1621,bakery,Food stores,high,trade/name keyword,1956-1800-03
+E0484,4,1800,1800,1964,SILVERMANS DEPT STORE,1964:DU3-1922,department / variety / discount store,General & specialty retail,high,trade/name keyword,1964-1800-01
+E0485,4,1800,1800,1968,EL CARMELO RESTRNT,1968:384-0021,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1968-1800-01
+E0486,4,1800,1800,1973 1987,El Carmelo Bakery | EL CARMELO BAKERY,1973:484-9255 | 1987:484-9255,bakery,Food stores,high,trade/name keyword,1973-1800-01 1987-1800-01
+E0487,4,1801,1801,1956 1960 1964 1965 1968 1973 1987,Par Paint Co | PAR PAINT CO | PAR PAINT CO INC,1956:DU 2-8433 | 1960:DU 2-8433 | 1964:DU2-8433 | 1965:382-8433 | 1968:382-8433 | 1973:382-8433 | 1987:413-4950,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1801-01 1960-1801-01 1964-1801-01 1965-1801-01 1968-1801-01 1973-1801-01 1987-1801-01
+E0488,4,1802,1802,1964 1965,CALIF FEDERAL SAVNGS,1964:382-2381 | 1965:382-2381,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1964-1802-01 1965-1802-01
+E0489,4,1803,1803,1927,Kenny C B Dr,1927:DR 4352,physician's office,Health & medical,high,trade/name keyword,1927-1803-01
+E0490,4,1803,1803,1956 1960,Rowe Harold Dr,1956:DU 2-2567 | 1960:DU 2-2567,physician's office,Health & medical,high,trade/name keyword,1956-1803-02 1960-1803-02
+E0491,4,1803,1803,1956 1960,Rowe Stephen Dr,1956:DU 2-2567 | 1960:DU 2-2567,physician's office,Health & medical,high,trade/name keyword,1956-1803-03 1960-1803-03
+E0492,4,1803,1803,1965 1968,MNICH R M DR,1965:382-2567 | 1968:382-2567,physician's office,Health & medical,high,trade/name keyword,1965-1803-02 1968-1803-02
+E0493,4,1803,1803,1973,Sherman Fred Dr,1973:382-2567,physician's office,Health & medical,high,trade/name keyword,1973-1803-02
+E0494,4,1803,1803,1973 1987,Mnich Raymond M Dr | MNICH RAYMOND M DR,1973:382-2567 | 1987:484-9063,physician's office,Health & medical,high,trade/name keyword,1973-1803-01 1987-1803-03
+E0495,4,1803,1803,1987,CAMPION TOBY DC,1987:413-3220,chiropractor's office,Health & medical,high,trade/name keyword,1987-1803-02
+E0496,4,1804,1804,1964 1965 1968,ONYX BEAUTY SALON,1964:383-0591 | 1965:383-0591 | 1968:383-0591,beauty salon,Personal services,high,trade/name keyword,1964-1804-01 1965-1804-01 1968-1804-01
+E0497,4,1805,1805,1968,EL PRADO BEER BAR,1968:386-0848,bar / cocktail lounge,Restaurants & bars,high,trade/name keyword,1968-1805-01
+E0498,4,1806,1806,1964 1965,BILLS SPORTING GOODS,1964:DU7-3976 | 1965:387-3976,sporting goods store,General & specialty retail,high,trade/name keyword,1964-1806-01 1965-1806-01
+E0499,4,1806,1806,1968,ALMACENES A,1968:384-3044,department / variety / discount store,General & specialty retail,high,trade/name keyword,1968-1806-01
+E0500,4,1806,1806,1973 1987,Alamar Jewelry | ALAMAR JEWELRY,1973:484-0626 | 1987:484-2222,jewelry store,General & specialty retail,high,trade/name keyword,1973-1806-01 1987-1806-03
+E0501,4,1806,1806,1987,ALAMAR TRAVEL SERVICE,1987:413-1522 | 1987:413-2900,travel agency,Professional & business services,high,trade/name keyword,1987-1806-01 1987-1806-02
+E0502,4,1806,1806,1987,ALAMAR TRAVEL BUREAU,1987:484-2222,travel agency,Professional & business services,high,trade/name keyword,1987-1806-04
+E0503,4,1807,1807,1956 1960,Marlene Beauty Shoppe,1956:DU 4-7038 | 1960:DU 4-7038,beauty salon,Personal services,high,trade/name keyword,1956-1807-01 1960-1807-01
+E0504,4,1807,1807,1964 1965,MARLENE BTY SHOP,1964:DU4-7038 | 1965:384-7038,beauty salon,Personal services,high,trade/name keyword,1964-1807-01 1965-1807-01
+E0505,4,1807,1807,1968 1973 1987,SHARVAT BEAUTY SALON | Sharvat Beauty Salon,1968:384-0473 | 1973:384-0473 | 1987:413-1787,beauty salon,Personal services,high,trade/name keyword,1968-1807-01 1973-1807-01 1987-1807-01
+E0506,4,1808,1808,1960,Youngs Pet Shop,1960:DU 5-8576,pet / tropical fish shop,General & specialty retail,high,trade/name keyword,1960-1808-01
+E0507,4,1808,1808,1964,YOUNGS TROPICAL FISH,1964:DU5-8576,pet / tropical fish shop,General & specialty retail,high,trade/name keyword,1964-1808-01
+E0508,4,1808,1808,1968,MARKS YARDAGE OUTLET,1968:382-5768,fabric / yardage store,"Apparel, shoes & fabric",high,trade/name keyword,1968-1808-01
+E0509,4,1808,1808,1973,Mark's Yardage & Remnants Outlet,1973:484-9577,fabric / yardage store,"Apparel, shoes & fabric",high,trade/name keyword,1973-1808-01
+E0510,4,1808,1808,1987,APPLE TRAVEL BROKERS INC,1987:483-5722,travel agency,Professional & business services,high,trade/name keyword,1987-1808-01
+E0511,4,1809,1809,1956,Ballard Rlty Co,1956:DU 8-2041,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-1809-01
+E0512,4,1809,1809,1960,Willingham E H rltr,1960:DU 8-2041,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1960-1809-01
+E0513,4,1809,1809,1964 1965 1968,GORDON JIM E RLTY,1964:DU8-0377 | 1965:388-0377 | 1968:388-0377,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1964-1809-01 1965-1809-01 1968-1809-01
+E0514,4,1809,1809,1973,Gordon Jim E Realty,1973:388-0377,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1973-1809-01
+E0515,4,1809,1809,1987,GORDON CHRISTMAS REAL ESTATE,1987:413-5044,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1987-1809-01
+E0516,4,1814,1814,1956,Stewart Lithograph Co,1956:DU 4-4157,printing shop,"Media, printing & entertainment",high,trade/name keyword,1956-1814-01
+E0517,4,1816,1816½,1956 1960,Hardin Transfr & Storage Co,1956:DU 8-1311 | 1960:DU 8-1311,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1816h-01 1960-1816h-02
+E0518,4,1816,1816½,1956 1960,Hardin's Storage & Transfr Co,1956:DU 8-1311 | 1960:DU 8-1311,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1816h-02 1960-1816h-03
+E0519,4,1816,1816,1960,Sacchi Portrait Studio photgrphr,1960:DU 3-9452,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1960-1816-01
+E0520,4,1816,1816½,1960,Hardin Piano Movers,1960:DU 8-1311,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1960-1816h-01
+E0521,4,1816,1816,1964 1965,ECHO PARK VACUUM SLS,1964:385-3829 | 1965:385-3829,vacuum cleaner sales,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1816-01 1965-1816-01
+E0522,4,1816,1816½,1964 1965,K-Y PIANO MOVERS,1964:387-2157 | 1965:387-2157,moving & storage,"Light industrial, trades & wholesale",high,trade/name keyword,1964-1816h-01 1965-1816h-01
+E0523,4,1816,1816½,1968,JULIA MFG CO,1968:386-1716,manufacturing / manufacturers' agent,"Light industrial, trades & wholesale",high,trade/name keyword,1968-1816h-01
+E0524,4,1816,1816,1987,ALAMAR FURNITURE,1987:484-2222,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1987-1816-01
+E0525,4,1820,1820,1956,Sacchi Portrait Studio photgrphr,1956:DU 3-9452,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1956-1820-01
+E0526,4,1822,1822,1956,Barraza Natalia restrnt,1956:DU 2-0179,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1956-1822-01
+E0527,4,1822,1822,1960 1964 1965 1973 1987,Nayarit Restaurant | NAYARIT RESTAURANT,1960:DU 2-0179 | 1964:382-0179 | 1965:382-0179 | 1965:386-0179 | 1973:484-0766 | 1987:484-0766,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1960-1822-01 1964-1822-01 1965-1822-01 1965-1822-02 1973-1822-01 1987-1822-01
+E0528,4,1824,1824,1956,American Legion Echo Park Post No 414,1956:DU 9-9643,veterans' post (American Legion),Institutional & civic,high,trade/name keyword,1956-1824-01
+E0529,4,1824,1824,1960,American Legion Los Angeles Posts Echo Park Post No 414,1960:DU 9-9643,veterans' post (American Legion),Institutional & civic,high,trade/name keyword,1960-1824-01
+E0530,4,1824,1824,1965,SILVERLAKE NATL BANK,1965:386-2266,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1965-1824-01
+E0531,4,1824,1824,1973,Photoland Studios,1973:483-0369 | 1973:484-1363,photography / portrait studio,"Media, printing & entertainment",high,trade/name keyword,1973-1824-01 1973-1824-03
+E0532,4,1824,1824,1973,Circulo Chileno,1973:483-2588,community / social club,Institutional & civic,high,trade/name keyword,1973-1824-04
+E0533,4,1824,1824,1973,Meyers Signs,1973:483-6506,sign maker,"Light industrial, trades & wholesale",high,trade/name keyword,1973-1824-05
+E0534,4,1825,1825,1956 1960,Geanies Beautiful Dresses,1956:DU 4-7341 | 1960:DU 4-7341,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1956-1825-01 1960-1825-01
+E0535,4,1825,1825,1964 1965 1968,GEANIES DRESSES,1964:DU4-7341 | 1965:384-7341 | 1968:384-7341,clothing store,"Apparel, shoes & fabric",high,trade/name keyword,1964-1825-01 1965-1825-01 1968-1825-01
+E0536,4,1825,1825,1973,Hiro Realty Co,1973:382-3025,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1973-1825-01
+E0537,4,1827,1827,1956 1960,Carpenter Stella,1956:DU 5-4986 | 1960:DU 5-4986,carpentry shop,"Light industrial, trades & wholesale",high,trade/name keyword,1956-1827-15 1960-1827-13
+E0538,4,1828,1828,1973,Onyx Beauty Salon,1973:483-7239 | 1973:484-9447,beauty salon,Personal services,high,trade/name keyword,1973-1828-01 1973-1828-02
+E0539,4,1828,1828,1973,Bankers Financial Co,1973:483-3128,finance / loan company,"Finance, insurance & real estate",high,trade/name keyword,1973-1828-03
+E0540,4,1828,1828,1973,Helena Leasing Co,1973:484-0053,finance / loan company,"Finance, insurance & real estate",high,trade/name keyword,1973-1828-04
+E0541,4,1828,1828,1987,CENTRAL CITY ACTION COMMUNITY,1987:484-6083,community action agency,Institutional & civic,high,trade/name keyword,1987-1828-01
+E0542,4,1829,1829,1965 1968,HERBS KEY SHOP,1965:383-2277 | 1968:383-2277,key shop / locksmith,Personal services,high,trade/name keyword,1965-1829-01 1968-1829-01
+E0543,4,1829,1829,1973,Herb's Key Shop,1973:382-3222,key shop / locksmith,Personal services,high,trade/name keyword,1973-1829-01
+E0544,4,1829,1829,1973 1987,Herb's Master Locksmiths | HERB'S MASTER LOCKSMITHS,1973:487-7151 | 1987:413-4535,key shop / locksmith,Personal services,high,trade/name keyword,1973-1829-02 1987-1829-01
+E0545,4,1830,1830,1960 1964,Dostal S Dental Lab | DOSTAL S DENTAL LAB,1960:DU 5-8633 | 1964:DU5-8633,dental laboratory,Health & medical,high,trade/name keyword,1960-1830-02 1964-1830-02
+E0546,4,1830,1830,1973 1987,Cohen Michael B Dr | COHEN MICHAEL B DR,1973:483-5969 | 1987:483-5969,physician's office,Health & medical,high,trade/name keyword,1973-1830-01 1987-1830-01
+E0547,4,1832,1832,1956 1960,Banks Johnny Blinds,1956:DU 8-7154 | 1960:DU 8-7154,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1832-01 1960-1832-02
+E0548,4,1832,1832,1956 1960,Banks Venetian Blind Mfrs,1956:DU 8-7154 | 1960:DU 8-7154,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1832-02 1960-1832-03
+E0549,4,1832,1832,1960,Banks Interiors,1960:DU 8-7154,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-1832-01
+E0550,4,1832,1832,1964 1965 1968,BANKS VENETIAN BLIND,1964:DU8-7154 | 1965:388-7154 | 1968:388-7154,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-1832-01 1965-1832-01 1968-1832-01
+E0551,4,1834,1834,1956 1960,Charm Beauty Shop,1956:DU 5-1174 | 1960:DU 5-1174,beauty salon,Personal services,high,trade/name keyword,1956-1834-02 1960-1834-01
+E0552,4,1834,1834,1987,SUNSET WEST CAMERA SERVICE,1987:484-2285,camera store / repair,General & specialty retail,high,trade/name keyword,1987-1834-01
+E0553,4,1838,1838,1973,Lincoln Driving School,1973:484-9070,driving school,Professional & business services,high,trade/name keyword,1973-1838-01
+E0554,4,1900,1900,1956 1960,Herb's Bike & Key Shop,1956:DU 3-2277 | 1960:DU 3-2277,key shop / locksmith,Personal services,high,trade/name keyword,1956-1900-01 1960-1900-01
+E0555,4,1900,1900,1968,CALIF FEDERAL SAVNGS,1968:382-2381,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1968-1900-01
+E0556,4,1900,1900,1968,PACIFIC PARKING CORP,1968:382-0011,parking operator,Professional & business services,high,trade/name keyword,1968-1900-02
+E0557,4,1900,1900,1973,National Cystic Fibrosis Research Foundation,1973:483-3034,nonprofit / charitable organization,Institutional & civic,high,trade/name keyword,1973-1900-01
+E0558,4,1900,1900,1973,California Federal Savings & Loan Association,1973:484-8030,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1973-1900-02
+E0559,4,1900,1900,1973,Inner City Housing Corp,1973:483-4377,nonprofit housing organization,Institutional & civic,high,trade/name keyword,1973-1900-03
+E0560,4,1900,1900,1973,Pacific Parking Corporation,1973:484-0671,parking operator,Professional & business services,high,trade/name keyword,1973-1900-04
+E0561,4,1900,1900,1987,EXECUTIVE PARKING SERVICE,1987:484-0671,parking operator,Professional & business services,high,trade/name keyword,1987-1900-01
+E0562,4,1901,1901,1964,LA CIENEGA FLORIST,1964:386-0664,gift / florist / toy shop,General & specialty retail,high,trade/name keyword,1964-1901-01
+E0563,4,1901,1901,1965,STANS PRODUCE,1965:386-0312,deli / specialty food,Food stores,high,trade/name keyword,1965-1901-01
+E0564,4,1901,1901,1968,DEACON JONES-RESTRNT,1968:386-2184,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1968-1901-01
+E0565,4,1901,1901,1973,Maya Restaurants,1973:483-9356,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-1901-01
+E0566,4,1910,1910,1968,ANSON-GLEAVES-ATTYS,1968:385-3554,attorney's office,Professional & business services,high,trade/name keyword,1968-1910-01
+E0567,4,1910,1910,1968,CASS-JOHANSING-INS,1968:381-7181,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1968-1910-04
+E0568,4,1910,1910,1968,MUNICIPAL LIEN SERV,1968:387-8388,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1968-1910-05
+E0569,4,1910,1910,1968 1973,HITCHCOCK PUBLISHING | Hitchcock Publishing Co,1968:388-5131 | 1973:484-8444,newspaper / publisher,"Media, printing & entertainment",high,trade/name keyword,1968-1910-02 1973-1910-12
+E0570,4,1910,1910,1973,Studio Watts Endowment Fund,1973:484-0860,nonprofit / charitable organization,Institutional & civic,high,trade/name keyword,1973-1910-02
+E0571,4,1910,1910,1973,Municipal Lien Service,1973:484-8355,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1973-1910-04
+E0572,4,1910,1910,1973,Nurses Professional Registry Agency,1973:484-8800,nurse staffing registry,Health & medical,high,trade/name keyword,1973-1910-05
+E0573,4,1910,1910,1973,Kaiser Permanente Medical Care Program,1973:484-9870,medical clinic,Health & medical,high,trade/name keyword,1973-1910-06
+E0574,4,1910,1910,1973,Planned Equity Corp,1973:483-1354,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1973-1910-07
+E0575,4,1910,1910,1973,Synergy Advertising Inc,1973:484-0150,advertising agency,Professional & business services,high,trade/name keyword,1973-1910-10
+E0576,4,1910,1910,1973,United Telegraph Workers AFL-CIO,1973:484-9490,labor union office,Institutional & civic,high,trade/name keyword,1973-1910-11
+E0577,4,1910,1910,1973,Los Angeles Hebrew Mission,1973:484-8470,religious mission,Institutional & civic,high,trade/name keyword,1973-1910-14
+E0578,4,1910,1910,1987,ANGELUS TEMPLE,1987:484-1100,church office (Angelus Temple),Institutional & civic,high,trade/name keyword,1987-1910-01
+E0579,4,1910,1910,1987,FISCAL EMPLOYEES FEDERAL CREDIT UNION,1987:484-8330,credit union,"Finance, insurance & real estate",high,trade/name keyword,1987-1910-02
+E0580,4,1910,1910,1987,WINSTON SCHAEFER REALTY CO,1987:483-4490,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1987-1910-03
+E0581,4,1910,1910,1987,L A COUNTY PROFESSIONAL PEACE OFFICERS,1987:483-7762,professional / employee association,Institutional & civic,high,trade/name keyword,1987-1910-06
+E0582,4,1910,1910,1987,WORLD BOOK INC DIVISION OFFICE,1987:483-6608,encyclopedia sales office,Professional & business services,high,trade/name keyword,1987-1910-10
+E0583,4,1910,1910,1987,WEXLER JANICE VOCATIONAL TESTING SERVICES,1987:483-1154,vocational testing service,Professional & business services,high,trade/name keyword,1987-1910-11
+E0584,4,1910,1910,1987,CALIF ASSN OF PROFESSIONAL EMPLOYEES,1987:484-0400,professional / employee association,Institutional & civic,high,trade/name keyword,1987-1910-14
+E0585,4,1910,1910,1987,MOUNTAIN STREAM PROPERTY DEVELOPMENT,1987:413-1000,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1987-1910-15
+E0586,4,1910,1910,1987,UNIVERSAL CONSTRUCTION,1987:483-3002,construction contractor,"Light industrial, trades & wholesale",high,trade/name keyword,1987-1910-16
+E0587,4,1910,1910,1987,SENTANCE DAVID CLU CHFC,1987:483-1693,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1987-1910-19
+E0588,4,1910,1910,1987,HELITAC AVIATION INC,1987:483-6898,aviation company office,Professional & business services,high,trade/name keyword,1987-1910-20
+E0589,4,1911,1911,1956 1960,Botwin's Cafe & Sierra Room,1956:DU 9-1265 | 1960:DU 9-1265,restaurant & cocktail lounge,Restaurants & bars,high,trade/name keyword,1956-1911-01 1960-1911-01
+E0590,4,1911,1911,1956 1960,Sierra Room & Cafe Botwin's,1956:DU 9-1265 | 1960:DU 9-1265,restaurant & cocktail lounge,Restaurants & bars,high,trade/name keyword,1956-1911-02 1960-1911-02
+E0591,4,1911,1911,1964 1965 1968,LES FRERES T RSTRNT,1964:DU9-1265 | 1965:389-1265 | 1968:389-1265,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1911-01 1965-1911-01 1968-1911-01
+E0592,4,1911,1911,1973 1987,Les Freres Taix French Restaurant | LES FRERES TAIX FRENCH RESTAURANT,1973:484-1265 | 1987:484-1265,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-1911-01 1987-1911-01
+E0593,4,1912,1912,1968,SILVERLAKE NATL BANK,1968:386-2266,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1968-1912-01
+E0594,4,1912,1912,1973,Hongkong Bank Of California,1973:484-1810,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1973-1912-01
+E0595,4,1918,1918,1956 1960 1964 1965 1968 1973,Brite Spot Cafe | BRITE SPOT CAFE,1956:DU 9-2063 | 1960:DU 9-2063 | 1964:DU9-2063 | 1965:389-2063 | 1968:389-2063 | 1973:484-9800,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1956-1918-01 1960-1918-01 1964-1918-01 1965-1918-01 1968-1918-01 1973-1918-01
+E0596,4,1918,1918,1987,BRITE SPOT FAMILY RESTAURANTS,1987:484-9800,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1987-1918-01
+E0597,4,1920,1920,1956,Mac's Auto Repair,1956:DU 4-6428,auto repair,Auto sales & service,high,trade/name keyword,1956-1920-01
+E0598,4,1920,1920,1960,Drive-In-Body & Fender Works,1960:DU 4-6428,auto body repair,Auto sales & service,high,trade/name keyword,1960-1920-01
+E0599,4,1920,1920,1960,Herron's Top Shop,1960:DU 7-3715,auto repair,Auto sales & service,high,trade/name keyword,1960-1920-02
+E0600,4,1925,1925,1927,Reliable Quality Mkt,1927:DR 2161,grocery / market,Food stores,high,trade/name keyword,1927-1925-01
+E0601,4,1925,1925,1956 1960,Morrie's Liquors,1956:DU 2-1744 | 1960:DU 2-1744,liquor store,Food stores,high,trade/name keyword,1956-1925-01 1960-1925-01
+E0602,4,1925,1925,1964 1965,ECHO LIQUOR STORE,1964:DU2-1744 | 1965:382-1744,liquor store,Food stores,high,trade/name keyword,1964-1925-01 1965-1925-01
+E0603,4,1925,1925,1968,TAIX VINS ET LIQUEUR,1968:382-1744,liquor store,Food stores,high,trade/name keyword,1968-1925-01
+E0604,4,1925,1925,1973,Taix Vin & Liqueur,1973:484-1611,liquor store,Food stores,high,trade/name keyword,1973-1925-01
+E0605,4,1927,1927,1956,Matlin Stationers,1956:DU 9-6130,book / stationery store,General & specialty retail,high,trade/name keyword,1956-1927-01
+E0606,4,1927,1927,1960 1964 1965 1968,Parsons' Stationers | PARSONS STATIONERS,1960:DU 9-6130 | 1964:DU9-6130 | 1965:389-6130 | 1968:389-6130,book / stationery store,General & specialty retail,high,trade/name keyword,1960-1927-01 1964-1927-01 1965-1927-01 1968-1927-01
+E0607,4,1929,1929,1956 1960,Mike's Cafe,1956:DU 2-9053 | 1960:DU 2-9053,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1956-1929-01 1960-1929-01
+E0608,4,1929,1929,1964 1965,SUNSET CAFE,1964:386-0159 | 1965:386-0159,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1964-1929-01 1965-1929-01
+E0609,4,1931,1931,1956 1960,Park Furn Co | Park's Furn Co,1956:DU 8-0673 | 1960:DU 8-0673,furniture store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-1931-01 1956-1931-02 1960-1931-01
+E0610,4,1931,1931,1964,ZIFF SHELDON M ATTY,1964:DU7-8181,attorney's office,Professional & business services,high,trade/name keyword,1964-1931-05
+E0611,4,1931,1931,1964 1965 1968,ARBITER STANLEY MD,1964:DU3-2131 | 1965:383-2131 | 1968:383-2131,physician's office,Health & medical,high,trade/name keyword,1964-1931-01 1965-1931-01 1968-1931-01
+E0612,4,1931,1931,1964 1965 1968,WILTERN MEDICAL LAB,1964:DU3-2251 | 1965:383-2251 | 1968:383-2251,medical laboratory,Health & medical,high,trade/name keyword,1964-1931-04 1965-1931-04 1968-1931-03
+E0613,4,1931,1931,1964 1965 1968 1973 1987,PARK SUNSET PHARMACY | Park Sunset Pharmacy,1964:DU8-4046 | 1964:386-9201 | 1965:388-4046 | 1968:388-1366 | 1973:484-0800 | 1987:484-0800,pharmacy / drugstore,Health & medical,high,trade/name keyword,1964-1931-02 1964-1931-03 1965-1931-03 1968-1931-02 1973-1931-02 1987-1931-01
+E0614,4,1931,1931,1965,DICKEY D R-OPTMRST,1965:386-2691,optometrist's office,Health & medical,high,trade/name keyword,1965-1931-02
+E0615,4,1931,1931,1973,Arbiter S MD & Beller L MD & Cowan H,1973:484-0101,physician's office,Health & medical,high,trade/name keyword,1973-1931-01
+E0616,4,1931,1931,1973 1987,Arbiter Stanley I MD | ARBITER STANLEY I MD,1973:484-1212 | 1987:484-1212,physician's office,Health & medical,high,trade/name keyword,1973-1931-03 1987-1931-02
+E0617,4,1945,1945,1906,Rannells Land Co (branch),,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1906-1945-01
+E0618,4,1950,1950,1956,Baumen G G Baumen G Gailliard atty,1956:DU 7-5251,attorney's office,Professional & business services,high,trade/name keyword,1956-1950-01
+E0619,4,1950,1950,1956,Baumen G Gailliard atty,1956:DU 7-5251,attorney's office,Professional & business services,high,trade/name keyword,1956-1950-02
+E0620,4,1950,1950,1960,Baumen G G atty,1960:DU 7-5251,attorney's office,Professional & business services,high,trade/name keyword,1960-1950-01
+E0621,4,1950,1950,1960,Holzhauer Robt atty,1960:DU 2-8744,attorney's office,Professional & business services,high,trade/name keyword,1960-1950-02
+E0622,4,1950,1950,1960,Wheeling Wm T CPA,1960:DU 3-8427,accountant,Professional & business services,high,trade/name keyword,1960-1950-03
+E0623,4,1950,1950,1964 1965,GUYON F R-ATTY,1964:387-4881 | 1965:387-4881,attorney's office,Professional & business services,high,trade/name keyword,1964-1950-02 1965-1950-02
+E0624,4,1950,1950,1964 1965 1968 1973 1987,BAUMEN G G | Baumen G G,1964:DU7-5251 | 1965:387-5251 | 1968:387-5251 | 1973:484-9161 | 1987:484-9161,attorney's office,Professional & business services,high,"1956-60 'Baumen G G atty', same address",1964-1950-01 1965-1950-01 1968-1950-01 1973-1950-01 1987-1950-01
+E0625,4,2005,2005,1956 1960,United States Government post office dept L A Post Office Substations Edendale Stn,1956:DU 7-3460 | 1960:DU 7-3460,post office (Edendale Station),Institutional & civic,high,trade/name keyword,1956-2005-01 1960-2005-01
+E0626,4,2005,2005,1964,U S POST OFC,1964:DU7-3460,post office (Edendale Station),Institutional & civic,high,trade/name keyword,1964-2005-01
+E0627,4,2005,2005,1965,U S GOVT,1965:387-2353,post office (Edendale Station),Institutional & civic,high,trade/name keyword,1965-2005-01
+E0628,4,2005,2005,1968,US GOVT-POST OFFICE,1968:387-2353,post office (Edendale Station),Institutional & civic,high,trade/name keyword,1968-2005-01
+E0629,4,2011,2011,1956,Gilson Moe Peerless Shade Co,1956:DU 7-5277,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-2011-01
+E0630,4,2011,2011,1956,Gilson's Venetian Blind Co,1956:DU 7-5277,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-2011-02
+E0631,4,2011,2011,1956,Peerless Hdwe & Shade Co Peerless Shade Co,1956:DU 7-5277,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-2011-03
+E0632,4,2011,2011,1956,Peerless Shade Co,1956:DU 7-5277,window blinds / shades,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-2011-04
+E0633,4,2011,2011,1956,Peerless Shade & Hdwe Co Peerless Shade Co,1956:DU 7-5277,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1956-2011-05
+E0634,4,2011,2011,1960,Peerless Hdwe & Shade Co,1960:DU 7-5277,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1960-2011-01
+E0635,4,2011,2011,1964 1965 1968 1987,PEERLESS HARDWARE,1964:DU7-5277 | 1965:387-5277 | 1968:387-5277 | 1987:484-8077,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-2011-01 1965-2011-01 1968-2011-01 1987-2011-01
+E0636,4,2011,2011,1973,Peerless Hardware & Shade Co,1973:484-8077,hardware / paint store,"Home furnishings, hardware & appliances",high,trade/name keyword,1973-2011-01
+E0637,4,2013,2013,1906,Perrin C L carriages,,carriage maker / dealer,Auto sales & service,high,'carriages',1906-2013-01
+E0638,4,2023,2023,1956 1960,Simon E H ins agcy,1956:DU 8-6237 | 1960:DU 8-6237,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1956-2023-01 1960-2023-02
+E0639,4,2023,2023,1956 1960,Simon E H pub acct,1956:DU 8-6237 | 1960:DU 8-6237,accountant,Professional & business services,high,trade/name keyword,1956-2023-02 1960-2023-03
+E0640,4,2023,2023,1956 1960,Simon Ins Agcy,1956:DU 8-6237 | 1960:DU 8-6237,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1956-2023-03 1960-2023-04
+E0641,4,2023,2023,1960 1964 1965,Simon E H | SIMON E H,1960:DU 8-0321 | 1964:DU8-6237 | 1965:388-6237,insurance agency / accountant,"Finance, insurance & real estate",high,"1956-60 Simon ins agcy / pub acct, same phone",1960-2023-01 1964-2023-01 1965-2023-01
+E0642,4,2023,2023,1968,GLYNN-BOXER-CPAS,1968:388-7191,accountant,Professional & business services,high,trade/name keyword,1968-2023-01
+E0643,4,2025,2025,1927,Safeway Stores,1927:DR 6609,grocery / market,Food stores,high,Safeway grocery chain,1927-2025-01
+E0644,4,2025,2025,1956 1960,Empire Creditors Serv | Empire Creditors Serv Corp,1956:DU 8-3497 | 1960:DU 5-8163,collection agency,Professional & business services,high,trade/name keyword,1956-2025-01 1960-2025-01
+E0645,4,2025,2025,1956 1960,Gaffaney Leo F Empire Creditors Serv | Gaffaney Leo F Empire Creditors Serv Corp,1956:DU 8-3497 | 1960:DU 5-8163,collection agency,Professional & business services,high,trade/name keyword,1956-2025-02 1960-2025-02
+E0646,4,2025,2025,1964 1965 1968,EMPIRE CREDITORS,1964:DU5-8163 | 1965:385-8163 | 1968:385-8163,collection agency,Professional & business services,high,truncated 'Empire Creditors Serv',1964-2025-01 1965-2025-01 1968-2025-01
+E0647,4,2029,2029,1956 1960,Kulka Elec Mfg Co,1956:DU 4-8181 | 1960:DU 4-8181,electrical contractor / manufacturer,"Light industrial, trades & wholesale",high,trade/name keyword,1956-2029-01 1960-2029-03
+E0648,4,2029,2029,1956 1960,Smith Jos M Co mfrs agts | Smith Jos M Co Inc mfrs agts,1956:DU 4-8181 | 1960:DU 4-8181,manufacturing / manufacturers' agent,"Light industrial, trades & wholesale",high,trade/name keyword,1956-2029-02 1960-2029-04
+E0649,4,2029,2029,1960,Westrn Travelers Ins,1960:DU 3-7371,insurance agency,"Finance, insurance & real estate",high,trade/name keyword,1960-2029-05
+E0650,4,2029,2029,1964 1965 1968,NAGAO EDDIE E RL EST,1964:DU8-0694 | 1965:388-0694 | 1968:388-0694,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1964-2029-01 1965-2029-01 1968-2029-01
+E0651,4,2034,2034,1956,Jensen Arthur A rl est,1956:DU 7-5767,real estate / property,"Finance, insurance & real estate",high,trade/name keyword,1956-2034-01
+E0652,4,2034,2034,1964,L-B USED TV,1964:DU6-0415,TV / radio sales & repair,"Home furnishings, hardware & appliances",high,trade/name keyword,1964-2034-01
+E0653,4,2035,2035,1956 1960,California Bank L A Branch Ofcs Sunset & Alvarado Ofc,1956:DU 7-3186 | 1960:DU 7-3186,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1956-2035-01 1960-2035-01
+E0654,4,2035,2035,1964,UNITED CALIF BANK,1964:DU7-3186,bank / savings & loan branch,"Finance, insurance & real estate",high,trade/name keyword,1964-2035-01
+E0655,4,2035,2035,1973,Standard Oil Company Of California Western,1973:483-9226,gas / service station,Auto sales & service,high,trade/name keyword,1973-2035-01
+E0656,4,2035,2035,1987,CACERES VICTOR CHEVRON SERVICE,1987:484-8608,gas / service station,Auto sales & service,high,trade/name keyword,1987-2035-01
+E0657,4,2040,2040,1968 1973 1987,SUNSET-EAST CAR WASH | Sunset-East Car Wash,1968:386-2805 | 1973:484-0821 | 1987:484-0821,car wash,Auto sales & service,high,trade/name keyword,1968-2040-01 1973-2040-02 1987-2040-01
+E0658,4,2040,2040,1973,Corina's Taco House No 2,1973:483-9100,restaurant / cafe,Restaurants & bars,high,trade/name keyword,1973-2040-01
+E0659,4,2100,2100,1927,Drakes Drugs,1927:DR 4937,pharmacy / drugstore,Health & medical,high,trade/name keyword,1927-2100-01
+E0660,4,2100,2100,1956 1960,Emerald Drugs,1956:DU 3-3083 | 1960:DU 3-3083,pharmacy / drugstore,Health & medical,high,trade/name keyword,1956-2100-01 1960-2100-01
+E0661,4,2100,2100,1964 1965 1968 1973,PIZZA BOZZA | Pizza Bozza,1964:DU3-0433 | 1965:383-0433 | 1968:383-0433 | 1973:383-0433,pizzeria,Restaurants & bars,high,trade/name keyword,1964-2100-01 1965-2100-01 1968-2100-01 1973-2100-01
+E0662,4,2100,2100,1987,PIZZA BOZZA & DELI,1987:413-0800,pizzeria,Restaurants & bars,high,trade/name keyword,1987-2100-01

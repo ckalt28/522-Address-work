@@ -1,0 +1,113 @@
+# year=1927 source=Los Angeles Street Directory (Kelts) 1927, pp. H72-H73
+1400||Jackson Pharmacy|MU 0815
+1406||Rose Mme|FA 2071
+1407||Reavis Cora A|MU 1020
+1412||Rouseland Apts|MU 9947
+1412||Martin Elsie G|MU 1867
+1412||Williams L Mrs|MU 7475
+1416||McBride John H|ME 3285
+1426||Hetherington Helen|MU 5568
+1428||Banta Evalena Mrs|MU 4027
+1428 1/2||Hermann Frederick|MU 4466
+1432||Coan Pat M|FA 2761
+1436||Ayers A M Mrs|MU 8737
+1439||Reliable Poultry Mkt|MU 9518
+1442||Everharty John J|MU 4884
+1446||ERvin C W|MU 7979
+1449||Sunland Pub Mkt|MU 0833
+1452||Spencer G W Mrs|FA 3678
+1456||Hutchinson E Mrs|FA 2774
+1457||Sutherland Mkt|MU 9831
+1461||Sutherland Apts|MU 9820
+1461||Anderson Robt|MU 1447
+1461||Mahoney W L|MU 3048
+1462||Riley J C|MU 8834
+1466||Butcher E H|FA 3571
+1472||McBride M A Mrs|FA 1563
+1476||Anderson E W Mrs|FA 0680
+1488||Gray Olga|MU 2013
+1488|B|Thomasson E B|MU 6550
+1488|D|Tassey Walter J|MU 7798
+1498||Hess J L|FA 3480
+1500 1/2||Natho H Miss|MU 3488
+1502 1/2||Armstrong Richard|MU 6574
+1506||Smith F W|ME 0209
+1519||Kaufman Joseph|FA 0380
+1528||Neeland John S|FA 0641
+1531 1/4||Fleming Edan G Mrs|FA 4665
+1531 1/2||Nelson Clyde V Dr|FA 0383
+1531 3/4||Poole Marjorie|FA 5474
+1563||Safeway Stores|MU 9684
+1571||Sunset Pharmacy|MU 2970
+1600||Seargeant J A|MU 9975
+1604||Brooks Maude E|FA 3040
+1607||Willard Groc Co|MU 5439
+1611 1/2||Strong O G Mrs|FA 0032
+1611 1/2||Williamson The|MU 9680
+1614||Sunset Apts|MU 9984
+1614||Forrest N O|FA 4780
+1614||Hayward A C|FA 5687
+1621 1/2||Oates Wm C|MU 1982
+1631||Apex Pharmacy|MU 1879
+1634||Caisson R L|MU 9780
+1700||Circle Drug Co|DR 3105
+1706||Jensen's Apts|DR 3177
+1706||Conahan Frank E|DU 5126
+1706||Harcourt Henry|DR 4479
+1706||Joint Lester|DR 2236
+1706||Kahle Geo R|DU 6475
+1706||Lassi Alfred|WA 9564
+1706||Matthews John T|DR 4798
+1706||Norton Ruth B|DU 0987
+1706||Oden Floyd C|WA 4896
+1706||Sloulin E|DU 3968
+1706||Van den Heuvel C A|DU 3186
+1706||Vaska Vena|DU 6607
+1706||Williams Lawrence D|DU 9544
+1715||Reno Rose Mrs|DR 5833
+1717||Brown W C|DR 1723
+1721||Kreps Wm W|DR 1296
+1723||Lindsay R T Dr|DR 3227
+1729||Spinning Apts|DR 3703
+1801 1/2||Gottenberg Michael|DR 6568
+1803||Kenny C B Dr|DR 4352
+1803 1/2||Hubbard Vanda|DU 4226
+1807||Straub Eli S|DR 4372
+1811||Emshwiller Mayme|DU 1220
+1817||Kenmore Apts|DR 4140
+1817||Lamont Janet L|DR 4360
+1817||Wilson Zenia P Mrs|DR 6220
+1827||Roberts Arms Apts|DR 1861
+1827|7|[unit phone only]|DR 3517
+1827|11|[unit phone only]|DR 4979
+1827|15|[unit phone only]|DU 8475
+1827|17|[unit phone only]|DR 2724
+1827|19|[unit phone only]|DR 8833
+1827|28|[unit phone only]|DR 0960
+1827||Campbell Alice|DR 0464
+1827||Lamb Eugenia|DR 6749
+1827||Starks Mattie P|DR 0299
+1911||Power J D|DU 3152
+1925||Reliable Quality Mkt|DR 2161
+2002||Bon-Air Apts|DR 6850
+2002|104|[unit phone only]|DR 6846
+2002|105|[unit phone only]|DR 6847
+2002|106|[unit phone only]|DR 6848
+2002|107|[unit phone only]|DR 6849
+2002|200|[unit phone only]|DR 6854
+2002|202|[unit phone only]|DR 6856
+2002|206|[unit phone only]|DR 6860
+2002|210|[unit phone only]|DR 6864
+2002|300|[unit phone only]|DR 6866
+2002|304|[unit phone only]|DR 6870
+2002|307|[unit phone only]|DR 5080
+2002||Cleary Edw Mrs|DU 6524
+2015||Echo Apts|DR 2800
+2015|206|[unit phone only]|DR 2803
+2016||Dell Clara Conway [first letter faint]|DR 0995
+2018||Spencer D C|DR 1094
+2022||McNeill Geo D|FI 3560
+2025||Safeway Stores|DR 6609
+2028||Harshman Florence|DR 0686
+2034||Hernandez Mary C Mrs|DR 1142
+2100||Drakes Drugs|DR 4937
