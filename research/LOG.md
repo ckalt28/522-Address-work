@@ -74,3 +74,14 @@ Added later in the session (also usable):
   snippets are not used as evidence; they are listed in notes as unread leads.
 - A 1987 Haines criss-cross directory ("CA Los Angeles County West Suburban 1987") is in IA's full-text index
   but the item itself is dark (404). It covers the West Suburban area anyway; no central-LA Haines volume found.
+
+## Priority 1–3 wrap-up and priority 4 start, 2026-10-07
+- All 90 priority 1–3 entities have a row (21 resolved, 69 not_found with what was searched).
+  `apply_findings.py` and `RESULTS.md` written; the script reproduces the text-only outputs exactly when
+  findings.csv is empty.
+- Priority 4 approach: rows only where a source adds something. Sources so far: yearbook ads (Henry's For
+  Men, Capri Beauty Salon), the 1978 ERIC module (Pioneer, 24 hours), LA Office of Finance titles (DDS, DPM,
+  KFSG radio, Taix). Running: IA full text for every p4 address, phone and multi-word name (1,432 queries;
+  slow, roughly 1–3 per minute); TESSA name search at 1 query/s.
+- Note: ABC license 187442 (Dos Leos Inc, type 48 bar, 1455 W Sunset) was issued and canceled the same day,
+  14-APR-1987; the 1987 directory lists nothing at 1455. Not recorded (no entity; may never have operated).

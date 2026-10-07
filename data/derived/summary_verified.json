@@ -391,7 +391,7 @@
  "findings_by_status": {
   "identified": 3,
   "not_found": 73,
-  "confirmed": 13,
+  "confirmed": 16,
   "corrected": 5
  }
 }
