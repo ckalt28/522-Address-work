@@ -26,8 +26,8 @@
 ## Questions raised during the research
 
 3. **Language of service as a clientele indicator?** Several sources show who a business was serving without
-   saying it outright: a Spanish-only salon ad ("Estilista para hombres"), "Se Habla Español", bilingual menus,
-   Spanish signage in LAPL's 1980 photos, ads placed in a Spanish-language magazine. Under rule 1 these are
+   saying it outright: a mostly-Spanish salon ad ("Estilista para hombres ... Abierto 7 Dias"), "Se Habla Español", a bilingual menu,
+   Spanish signage in LAPL's 1980 photos, an ad placed in a magazine whose pages mix Spanish and English (Gráfica). Under rule 1 these are
    in `researcher_notes` only. If you want them coded, I'd suggest a separate column
    (`service_language`, e.g. "Spanish", "Spanish/English") rather than putting them in `clientele_ethnicity`.
 4. **Area-level descriptions** (e.g. a 1978 teaching module listing Pioneer Market as a resource for

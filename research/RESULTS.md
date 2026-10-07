@@ -108,7 +108,8 @@ from a surname or business name (`OPEN_QUESTIONS.md` #1). Evidence that comes cl
 `researcher_notes`:
 - **Language of service.**
   - Pescado Mojado's 1988 menu is in English and Spanish.
-  - A 1983 Capri Beauty Salon ad (1515) is in Spanish ("Estilista para hombres").
+  - A 1983 Capri Beauty Salon ad (1515) is mostly in Spanish ("Estilista para hombres ... Para su
+    Conveniencia Abrimos Domingos ... Abierto 7 Dias"), with its hours also in English.
   - A 1972 bookkeeping and income-tax ad at 1463 says "Se Habla Español".
   - LAPL's 1980 photos note Spanish-language signs at 1539 (a carnicería) and at 1547 and 1555.
   - The Gold Room advertised in *Gráfica* (1977), whose pages mix Spanish and English.
