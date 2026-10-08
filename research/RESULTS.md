@@ -1,6 +1,6 @@
 # Results: outside-source research on the Sunset Blvd businesses
 
-Status as of 2026-10-08. Priorities 1–3 are complete. The priority 4 pass is nearly done (17 rows so far; a retry of failed phone searches is running).
+Status as of 2026-10-08. Priorities 1–3 are complete. The priority 4 pass is complete (17 rows: rows only where a source added something).
 Findings are in `research/findings.csv`. `scripts/apply_findings.py` folds them into
 `data/derived/listings_verified.csv`, `landuse_by_lot_verified.csv` and `summary_verified.json`. The
 text-only files are unchanged.
