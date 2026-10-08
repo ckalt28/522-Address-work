@@ -175,16 +175,16 @@
    "Unidentified business": 16,
    "Personal services": 11,
    "Auto sales & service": 6,
-   "Food stores": 9,
+   "Light industrial, trades & wholesale": 2,
    "Home furnishings, hardware & appliances": 4,
    "Apparel, shoes & fabric": 8,
+   "Food stores": 8,
    "General & specialty retail": 17,
    "Finance, insurance & real estate": 5,
    "Media, printing & entertainment": 3,
    "Professional & business services": 10,
    "Health & medical": 9,
-   "Institutional & civic": 2,
-   "Light industrial, trades & wholesale": 1
+   "Institutional & civic": 2
   }
  },
  "lotconf": {
@@ -208,29 +208,29 @@
    "low": 7
   },
   "1964": {
-   "high": 116,
-   "medium": 21,
+   "high": 114,
+   "medium": 23,
    "low": 21
   },
   "1965": {
-   "high": 116,
-   "medium": 18,
+   "high": 114,
+   "medium": 20,
    "low": 19
   },
   "1968": {
-   "high": 111,
+   "high": 110,
    "low": 19,
-   "medium": 19
+   "medium": 20
   },
   "1973": {
-   "high": 105,
-   "medium": 28,
+   "high": 104,
+   "medium": 29,
    "low": 8
   },
   "1987": {
-   "high": 98,
+   "high": 96,
    "low": 13,
-   "medium": 12
+   "medium": 14
   }
  },
  "buckets_text_only": {
@@ -384,6 +384,8 @@
   },
   "1987": {
    "Apparel, shoes & fabric": 1,
+   "Food stores": -1,
+   "Light industrial, trades & wholesale": 1,
    "Professional & business services": 1,
    "Unidentified business": -2
   }
@@ -391,7 +393,7 @@
  "findings_by_status": {
   "identified": 3,
   "not_found": 73,
-  "confirmed": 16,
-  "corrected": 5
+  "confirmed": 25,
+  "corrected": 6
  }
 }

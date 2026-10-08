@@ -1,6 +1,6 @@
 # Results: outside-source research on the Sunset Blvd businesses
 
-Status as of 2026-10-07. Priorities 1–3 are complete. The priority 4 pass has started (4 rows so far).
+Status as of 2026-10-08. Priorities 1–3 are complete. The priority 4 pass is nearly done (17 rows so far; a retry of failed phone searches is running).
 Findings are in `research/findings.csv`. `scripts/apply_findings.py` folds them into
 `data/derived/listings_verified.csv`, `landuse_by_lot_verified.csv` and `summary_verified.json`. The
 text-only files are unchanged.
@@ -12,7 +12,7 @@ text-only files are unchanged.
 | 1 (unidentified) | 37 | 3 | 0 | 3 | 31 |
 | 2 (low confidence) | 33 | 4 | 0 | 0 | 29 |
 | 3 (medium) | 20 | 4 | 3 | 0 | 13 |
-| 4 (high; lighter pass, in progress) | 572 | 2 | 2 | 0 | — |
+| 4 (high; lighter pass — rows only where a source adds something) | 572 | 14 | 3 | 0 | — |
 
 The results are thin, and that is mostly about what sources exist. Businesses from the 1950s–80s on this
 strip have almost no web presence. CDNC, HathiTrust and HistoricPlacesLA could not be read from this session,
@@ -38,7 +38,7 @@ Lots with at least one business in each bucket, text-only → verified (bold = c
 
 | bucket | 1906 | 1927 | 1956 | 1960 | 1964 | 1965 | 1968 | 1973 | 1987 |
 |---|---|---|---|---|---|---|---|---|---|
-| Food stores | 2 | 7 | 13 | 12 | **9→10** | **10→11** | 9 | 9 | 9 |
+| Food stores | 2 | 7 | 13 | 12 | **9→10** | **10→11** | 9 | 9 | **9→8** |
 | Restaurants & bars | 0 | 0 | 10 | 16 | 19 | 18 | 19 | 18 | 17 |
 | Apparel, shoes & fabric | 0 | 0 | 11 | 9 | 10 | 11 | 10 | **11→12** | **7→8** |
 | General & specialty retail | 0 | 0 | 13 | 15 | 18 | 15 | 14 | 18 | 17 |
@@ -49,7 +49,7 @@ Lots with at least one business in each bucket, text-only → verified (bold = c
 | Finance, insurance & real estate | 1 | 0 | **12→11** | **13→12** | **12→11** | **12→11** | 10 | 10 | 5 |
 | Professional & business services | 0 | 0 | 8 | 7 | 4 | 3 | 6 | 7 | **9→10** |
 | Media, printing & entertainment | 0 | 0 | 5 | 6 | 4 | 4 | 5 | 5 | 3 |
-| Light industrial, trades & wholesale | 0 | 0 | 8 | **7→8** | **4→5** | **5→6** | 3 | 4 | 1 |
+| Light industrial, trades & wholesale | 0 | 0 | 8 | **7→8** | **4→5** | **5→6** | 3 | 4 | **1→2** |
 | Institutional & civic | 0 | 0 | 4 | 4 | 2 | 2 | 2 | 4 | 2 |
 | Unidentified business | 0 | 1 | 1 | **3→2** | **3→2** | **3→2** | 3 | **6→5** | **18→16** |
 
@@ -99,6 +99,35 @@ bucket by bucket with earlier years without that caveat.
 5. **Most low-confidence "shop" calls are still unknown.** These are Dora's Shoppe, Dolores Shop, Toni's,
    Jay Leslie's, Ben's Shop and similar. None turned up in any source. They remain the biggest soft spot in the
    1956–73 retail counts.
+
+## Priority 4: what the lighter pass added
+
+Rows were recorded only where a source sharpened or contradicted the printed trade:
+
+- **Bucket changes.**
+  - **Wing Lee Shrimp Co (1422, 1987)** was a seafood importer, according to a 1994 world directory of
+    seafood importers with the same phone. It moves from Food stores to Light industrial, trades & wholesale.
+    That is the 1987 change in both rows of the table above.
+- **Sharper descriptions (same bucket).**
+  - Henry's (1602, 1956/60) was a men's store ("Henry's For Men", 1958 ad).
+  - Helen's (1414 → 1484) made natural fruit bars that were also sold through health-food stores (KPFK
+    Folio ad, October 1974).
+  - Barragan's Cafe (1536/1544) was a Mexican restaurant (April 1974 dining review).
+  - Pioneer was a 24-hour supermarket (1978).
+  - Capri Beauty Salon (1515) also had a men's stylist (1983 ad).
+  - Hitchcock Publishing (1910) was a Wheaton, Illinois trade-magazine publisher's Los Angeles office, not
+    a local paper.
+  - Helitac Aviation (1910, Suite 900) was a helicopter charter operator.
+  - Libreria Mexico (1632) was one branch of a four-store Spanish-language bookstore chain.
+  - Taix (1911) was a French restaurant from 1962.
+  - KFSG, the church's radio station, was in the Angelus Temple suite at 1910.
+  - Dr. Barreto (1612) was a dentist, and Dr. Cohen (1830) a podiatrist.
+- **Address conflicts noted, not resolved.**
+  - Helen's appears at both 1414 and 1484 in 1974 sources.
+  - Barragan's is listed at 1544 in 1964–65 and at 1536 from 1968, with the same phone.
+  - The 1974 Libreria Mexico ad reads "4032 Sunset".
+
+Most of the 572 priority 4 entities had nothing to add. Their printed trades stand as transcribed.
 
 ## Ownership ethnicity, clientele ethnicity, clientele class
 

@@ -89,3 +89,17 @@ Added later in the session (also usable):
   information for the listed years), Angelus Temple photos (temple on Glendale Blvd, not the 1910 Sunset
   offices), a 1976 Burrito King / liquor store photo at 2109 Sunset (outside the 1400–2100 range), and the
   1980 street photo at 1547. Nothing recorded from it.
+
+## Priority 4 bulk search, 2026-10-07/08
+- IA full text for all p4 phones, multi-word names and lot addresses (1,266 queries, ~25 s each on IA's
+  side). 140 failed with backend errors on the first pass and are being retried at lower concurrency.
+- Useful: KPFK Folio classified ads (Helen's fruit bars), a 1974 gay men's magazine dining column
+  (Barragan's Cafe), the 1994 World Directory of Seafood Importers (Wing Lee Shrimp), Infosystems 1978
+  masthead (Hitchcock Publishing), 1989 Helicopter Annual (Helitac), California Librarian 1974 ad (Libreria
+  Mexico). Lending-only and so not used: The Flavor of Los Angeles (1982; Madrid "Cuban and Spanish",
+  Celaya Bakery, Tonita's, Roy's Meat Co), Los Angeles Underground Gourmet (1970), Paul Wallach's guide
+  (1990), The Organic Directory (1974), Ethnic Information Sources (1983), Frommer's (1999/2004).
+- Context not tied to an entity: Coin M-Porium, a coin dealer at 2034 Sunset in 1962–63 numismatic
+  periodicals (between directory years).
+- The container restarted on 2026-10-08; nothing was lost (outputs were in the scratchpad and the repo was
+  pushed).
