@@ -30,6 +30,10 @@
    Spanish signage in LAPL's 1980 photos, an ad placed in a magazine whose pages mix Spanish and English (Gráfica). Under rule 1 these are
    in `researcher_notes` only. If you want them coded, I'd suggest a separate column
    (`service_language`, e.g. "Spanish", "Spanish/English") rather than putting them in `clientele_ethnicity`.
+   The most explicit example found: a 1983 Our Lady of Loretto yearbook ad, "ALAMAR 1806 Sunset Blvd. ...
+   484-2222 Courtesy with the Latin Touch" (the phone shared in 1987 by Alamar Jewelry, Alamar Travel Bureau
+   and Alamar Furniture). It names no trade, so no row was recorded; it would be the first candidate if you
+   want a market/service-language column.
 4. **Area-level descriptions** (e.g. a 1978 teaching module listing Pioneer Market as a resource for
    "economically depressed areas" that takes food stamps): coded nothing for now. Code `clientele_class`
    from these?

@@ -103,3 +103,10 @@ Added later in the session (also usable):
   periodicals (between directory years).
 - The container restarted on 2026-10-08; nothing was lost (outputs were in the scratchpad and the repo was
   pushed).
+- Retry of the 140 failed p4 queries finished with no errors. New hits were mostly confirmations already in
+  the directory (Quality Glass & Mirror 1487, Nayarit 1822, Honest Abe Auto 1717, Libreria Mexico de Echo
+  Park 2015-16 with the 1987 phone). Unread (lending-only): 1969 Business Directory entry for a hospital
+  rental business at 1700 with the Circle Drug phone (387-7386); 1987 'Regional, state, and local
+  organizations' and 1996 'Hispanic resource directory' entries for the Central City Action Committee phone
+  (484-6083). Read: 1983 Loretto yearbook ad 'ALAMAR ... Courtesy with the Latin Touch' (no trade; see
+  OPEN_QUESTIONS #3). Priority 4 IA pass complete.
